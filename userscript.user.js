@@ -2,8 +2,8 @@
 // @name         Nexus Injector Pro
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userScript-v1.js
-// @downloadURL  https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userScript-v1.js
+// @updateURL    https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userscript.user.js
 // @description  Exact replica of the Aincrad Nexus Guard Extension
 // @author       Ahmed Numan
 // @match        *://aincradmods.com/*
