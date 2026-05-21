@@ -694,7 +694,7 @@
                         </div>
                         <span class="ng-logo-text">Nexus Guard</span>
                     </div>
-                    <span class="ng-version">v4.10</span>
+                    <span class="ng-version">v1.0</span>
                 </div>
 
                 <div class="ng-body">
