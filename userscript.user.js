@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nexus Injector Pro
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      5.1
 // @updateURL    https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userscript.user.js
 // @downloadURL  https://raw.githubusercontent.com/Ahmed00002/NexusGuardScript/refs/heads/main/userscript.user.js
 // @description  Exact replica of the Aincrad Nexus Guard Extension
@@ -18,1231 +18,322 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
-
-(function (_0xc7a) {
-  "use strict";
-  var _0xfec7a = (694992 ^ 694994) + (267791 ^ 267786);
-  _0xc7a =
-    "\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0061\u0069\u006E\u0063\u0072\u0061\u0064\u002D\u0073\u0065\u0072\u0076\u0065\u0072\u002E\u0076\u0065\u0072\u0063\u0065\u006C\u002E\u0061\u0070\u0070\u002F\u0061\u0070\u0069";
-  _0xfec7a = (760624 ^ 760626) + (225169 ^ 225176);
-  const _0x7b67e = [
-    "\u0061\u0069\u006E\u0063\u0072\u0061\u0064\u006D\u006F\u0064\u0073\u002E\u0063\u006F\u006D",
-    "moc.larivrat".split("").reverse().join(""),
-    "moc.rotomeador".split("").reverse().join(""),
-  ];
-  const _0x70f5g = new URL(
-    window["\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E"][
-      "\u0068\u0072\u0065\u0066"
-    ],
-  );
-  const _0x97879d =
-    _0x70f5g["\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065"][
-      "\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073"
-    ](
-      "\u0061\u0069\u006E\u0063\u0072\u0061\u0064\u006D\u006F\u0064\u0073\u002E\u0063\u006F\u006D",
-    ) &&
-    _0x70f5g["\u0070\u0061\u0074\u0068\u006E\u0061\u006D\u0065"][
-      "\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073"
-    ]("yekteg".split("").reverse().join(""));
-  var _0x51a6c = (213849 ^ 213853) + (488367 ^ 488359);
-  const _0xd962cd =
-    (_0x70f5g[
-      "\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073"
-    ]["\u0068\u0061\u0073"]("yeKteg".split("").reverse().join("")) &&
-      _0x70f5g[
-        "\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073"
-      ]["\u0067\u0065\u0074"]("yeKteg".split("").reverse().join("")) !== "") ||
-    (_0x70f5g[
-      "\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073"
-    ]["\u0068\u0061\u0073"]("\u0074\u006F\u006B\u0065\u006E") &&
-      _0x70f5g[
-        "\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073"
-      ]["\u0067\u0065\u0074"]("nekot".split("").reverse().join("")) !== "");
-  _0x51a6c = (360500 ^ 360496) + (194609 ^ 194613);
-  function _0x9d05b(key, _0xe09a9a) {
-    if (
-      !document[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ](
-        "\u006E\u0065\u0078\u0075\u0073\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0066\u006F\u006E\u0074",
-      )
-    ) {
-      const _0x3f98d = document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("knil".split("").reverse().join(""));
-      _0x3f98d["\u0069\u0064"] = "tnof-ladom-suxen"
-        .split("")
-        .reverse()
-        .join("");
-      _0x3f98d["\u0072\u0065\u006C"] = "teehselyts"
-        .split("")
-        .reverse()
-        .join("");
-      _0x3f98d["\u0068\u0072\u0065\u0066"] =
-        "paws=yalpsid&007;005@thgw:inahdjaR=ylimaf&onoM+hceT+erahS=ylimaf?2ssc/moc.sipaelgoog.stnof//:sptth"
-          .split("")
-          .reverse()
-          .join("");
-      document["\u0068\u0065\u0061\u0064"][
-        "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-      ](_0x3f98d);
-    }
-    if (
-      !document[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ](
-        "\u006E\u0065\u0078\u0075\u0073\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0073\u0074\u0079\u006C\u0065\u0073",
-      )
-    ) {
-      const _0xcb_0x37g = document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0073\u0074\u0079\u006C\u0065");
-      _0xcb_0x37g["\u0069\u0064"] = "selyts-ladom-suxen"
-        .split("")
-        .reverse()
-        .join("");
-      _0xcb_0x37g[
-        "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-      ] = `
-                @keyframes nexus-backdrop-in {
-                    from { opacity: 0; }
-                    to   { opacity: 1; }
-                }
-                @keyframes nexus-modal-in {
-                    from { opacity: 0; transform: translateY(24px) scale(0.96); }
-                    to   { opacity: 1; transform: translateY(0)   scale(1); }
-                }
-                @keyframes nexus-scan {
-                    0%   { background-position: 0 -100%; }
-                    100% { background-position: 0  200%; }
-                }
-                @keyframes nexus-pulse-border {
-                    0%, 100% { box-shadow: 0 0 0 0 rgba(6,182,212,0.0), 0 0 18px 2px rgba(6,182,212,0.25); }
-                    50%      { box-shadow: 0 0 0 3px rgba(6,182,212,0.2), 0 0 28px 6px rgba(6,182,212,0.40); }
-                }
-                @keyframes nexus-copy-flash {
-                    0%   { background: linear-gradient(135deg,#06b6d4,#0284c7); }
-                    40%  { background: linear-gradient(135deg,#10b981,#059669); }
-                    100% { background: linear-gradient(135deg,#06b6d4,#0284c7); }
-                }
-                #nexus-key-modal-overlay {
-                    animation: nexus-backdrop-in 0.25s ease forwards;
-                }
-                #nexus-key-modal-box {
-                    animation: nexus-modal-in 0.35s cubic-bezier(.22,1,.36,1) forwards;
-                }
-            `;
-      document["\u0068\u0065\u0061\u0064"][
-        "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-      ](_0xcb_0x37g);
-    }
-    const _0xfa2eb =
-      document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0064\u0069\u0076");
-    _0xfa2eb["\u0069\u0064"] =
-      "\u006E\u0065\u0078\u0075\u0073\u002D\u006B\u0065\u0079\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u006F\u0076\u0065\u0072\u006C\u0061\u0079";
-    _0xfa2eb["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            position: fixed; inset: 0; z-index: 2147483647;
-            background: rgba(2, 6, 23, 0.82);
-            backdrop-filter: blur(6px);
-            display: flex; align-items: center; justify-content: center;
-            font-family: 'Rajdhani', sans-serif;
-        `;
-    const _0x4g9a =
-      document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0064\u0069\u0076");
-    _0x4g9a["\u0069\u0064"] = "xob-ladom-yek-suxen"
-      .split("")
-      .reverse()
-      .join("");
-    _0x4g9a["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            background: linear-gradient(160deg, rgba(15,23,42,0.98) 0%, rgba(8,16,36,0.98) 100%);
-            border: 1px solid rgba(6,182,212,0.30);
-            border-radius: 20px;
-            padding: 36px 32px 28px;
-            width: min(420px, 90vw);
-            box-sizing: border-box;
-            color: #f8fafc;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-            animation: nexus-pulse-border 2.8s ease-in-out infinite;
-        `;
-    const _0x9fd6b =
-      document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0064\u0069\u0076");
-    _0xe09a9a = 500565 ^ 500562;
-    _0x9fd6b["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            position: absolute; inset: 0; pointer-events: none; z-index: 0;
-            background: linear-gradient(180deg, transparent 40%, rgba(6,182,212,0.04) 50%, transparent 60%);
-            background-size: 100% 300%;
-            animation: nexus-scan 3.5s linear infinite;
-        `;
-    _0x4g9a[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x9fd6b);
-    const _0xf0f3d = document[
-      "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-    ]("vid".split("").reverse().join(""));
-    _0xf0f3d["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = ";1 :xedni-z ;evitaler :noitisop".split("").reverse().join("");
-    _0xf0f3d["\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C"] = `
-            <div style="
-                width:52px; height:52px; border-radius:50%;
-                background: linear-gradient(135deg,rgba(6,182,212,0.18),rgba(139,92,246,0.18));
-                border: 1.5px solid rgba(6,182,212,0.45);
-                display:flex; align-items:center; justify-content:center;
-                margin: 0 auto 18px;
-            ">
-                <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-                    <polyline points="9 12 11 14 15 10"/>
-                </svg>
+(function(_0xb38c,_0x4d_0xa3e,_0x2bce9e,_0x02030c){"use strict";_0x4d_0xa3e="\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0061\u0069\u006E\u0063\u0072\u0061\u0064\u002D\u0073\u0065\u0072\u0076\u0065\u0072\u002E\u0076\u0065\u0072\u0063\u0065\u006C\u002E\u0061\u0070\u0070\u002F\u0061\u0070\u0069";_0xb38c="lnhjbo".split("").reverse().join("");var _0x6a8dac=(995297^995300)+(895524^895524);_0x2bce9e="\u0035\u002E\u0031";_0x6a8dac=985836^985832;var _0xe608d=(533900^533893)+(874650^874652);_0x02030c="\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0072\u0061\u0077\u002E\u0067\u0069\u0074\u0068\u0075\u0062\u0075\u0073\u0065\u0072\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002E\u0063\u006F\u006D\u002F\u0041\u0068\u006D\u0065\u0064\u0030\u0030\u0030\u0030\u0032\u002F\u004E\u0065\u0078\u0075\u0073\u0047\u0075\u0061\u0072\u0064\u0053\u0063\u0072\u0069\u0070\u0074\u002F\u0072\u0065\u0066\u0073\u002F\u0068\u0065\u0061\u0064\u0073\u002F\u006D\u0061\u0069\u006E\u002F\u0075\u0073\u0065\u0072\u0053\u0063\u0072\u0069\u0070\u0074\u002D\u0076\u0031\u002E\u0075\u0073\u0065\u0072\u002E\u006A\u0073";_0xe608d=(228429^228430)+(885352^885355);const _0x1g_0xe54=["moc.sdomdarcnia".split("").reverse().join(""),"moc.larivrat".split("").reverse().join(""),"moc.rotomeador".split("").reverse().join("")];let _0x3f3cd=GM_getValue("\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064");if(!_0x3f3cd){_0x3f3cd="\u006E\u0065\u0078\u0075\u0073\u002D"+crypto['\u0072\u0061\u006E\u0064\u006F\u006D\u0055\u0055\u0049\u0044']();GM_setValue("\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064",_0x3f3cd);}function _0xcd473f(key){let h=[];try{h=JSON['\u0070\u0061\u0072\u0073\u0065'](GM_getValue("yrotsiHyeKsuxen".split("").reverse().join(""))||"\u005B\u005D");}catch(e){}h=h['\u0066\u0069\u006C\u0074\u0065\u0072'](e=>e['\u006B\u0065\u0079']!==key);h['\u0075\u006E\u0073\u0068\u0069\u0066\u0074']({"key":key,'\u0074\u0073':Date['\u006E\u006F\u0077']()});GM_setValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079\u0048\u0069\u0073\u0074\u006F\u0072\u0079",JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](h['\u0073\u006C\u0069\u0063\u0065'](213310^213310,579160^579163)));}function _0x26c(){try{return JSON['\u0070\u0061\u0072\u0073\u0065'](GM_getValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079\u0048\u0069\u0073\u0074\u006F\u0072\u0079")||"\u005B\u005D");}catch(e){return[];}}function _0x5f_0xa2a(ts){const s=Math['\u0066\u006C\u006F\u006F\u0072']((Date['\u006E\u006F\u0077']()-ts)/(524173^523365));if(s<(357231^357203))return`${s}s ago`;if(s<(586778^588298))return`${Math['\u0066\u006C\u006F\u006F\u0072'](s/(729546^729590))}m ago`;return`${Math['\u0066\u006C\u006F\u006F\u0072'](s/(883288^881736))}h ago`;}function _0xeb30e(right,bottom){GM_setValue("\u0066\u0061\u0062\u0050\u006F\u0073",JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({"right":right,'\u0062\u006F\u0074\u0074\u006F\u006D':bottom}));}function _0xf9cf2c(){try{return JSON['\u0070\u0061\u0072\u0073\u0065'](GM_getValue("soPbaf".split("").reverse().join(""))||"\u006E\u0075\u006C\u006C");}catch(e){return null;}}var _0x95fc4b=(781730^781733)+(218727^218735);let _0xd2815a=null;_0x95fc4b="haggjm".split("").reverse().join("");function _0x2447gf(){if(!_0xd2815a)_0xd2815a=new(window['\u0041\u0075\u0064\u0069\u006F\u0043\u006F\u006E\u0074\u0065\u0078\u0074']||window['\u0077\u0065\u0062\u006B\u0069\u0074\u0041\u0075\u0064\u0069\u006F\u0043\u006F\u006E\u0074\u0065\u0078\u0074'])();return _0xd2815a;}function _0x35f85b(type="\u0073\u0075\u0063\u0063\u0065\u0073\u0073"){try{const _0x33eg=_0x2447gf();var _0xb_0x496=(757368^757361)+(266523^266515);const _0xd2cf4b={'\u0073\u0075\u0063\u0063\u0065\u0073\u0073':[{'\u0066':660,'\u0074':0,'\u0064':0.12},{'\u0066':880,'\u0074':0.13,'\u0064':0.18}],"capture":[{'\u0066':440,'\u0074':0,'\u0064':0.08},{'\u0066':660,'\u0074':0.09,'\u0064':0.08},{'\u0066':880,'\u0074':0.18,'\u0064':0.22}],"deploy":[{'\u0066':330,'\u0074':0,'\u0064':0.1},{'\u0066':550,'\u0074':0.11,'\u0064':0.1},{'\u0066':770,'\u0074':0.22,'\u0064':0.22}],"error":[{'\u0066':220,'\u0074':0,'\u0064':0.18},{'\u0066':180,'\u0074':0.2,'\u0064':0.22}]};_0xb_0x496=(784920^784926)+(506239^506230);(_0xd2cf4b[type]||_0xd2cf4b['\u0073\u0075\u0063\u0063\u0065\u0073\u0073'])['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](({'\u0066':f,'\u0074':t,'\u0064':d})=>{var _0xbbde=(379946^379945)+(108216^108219);const _0xccfe6a=_0x33eg['\u0063\u0072\u0065\u0061\u0074\u0065\u004F\u0073\u0063\u0069\u006C\u006C\u0061\u0074\u006F\u0072']();_0xbbde=(120574^120573)+(410833^410835);const _0xcd02a=_0x33eg['\u0063\u0072\u0065\u0061\u0074\u0065\u0047\u0061\u0069\u006E']();_0xccfe6a['\u0063\u006F\u006E\u006E\u0065\u0063\u0074'](_0xcd02a);_0xcd02a['\u0063\u006F\u006E\u006E\u0065\u0063\u0074'](_0x33eg['\u0064\u0065\u0073\u0074\u0069\u006E\u0061\u0074\u0069\u006F\u006E']);_0xccfe6a['\u0074\u0079\u0070\u0065']="\u0073\u0069\u006E\u0065";_0xccfe6a['\u0066\u0072\u0065\u0071\u0075\u0065\u006E\u0063\u0079']['\u0073\u0065\u0074\u0056\u0061\u006C\u0075\u0065\u0041\u0074\u0054\u0069\u006D\u0065'](f,_0x33eg['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0069\u006D\u0065']+t);_0xcd02a['\u0067\u0061\u0069\u006E']['\u0073\u0065\u0074\u0056\u0061\u006C\u0075\u0065\u0041\u0074\u0054\u0069\u006D\u0065'](0.18,_0x33eg['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0069\u006D\u0065']+t);_0xcd02a['\u0067\u0061\u0069\u006E']['\u0065\u0078\u0070\u006F\u006E\u0065\u006E\u0074\u0069\u0061\u006C\u0052\u0061\u006D\u0070\u0054\u006F\u0056\u0061\u006C\u0075\u0065\u0041\u0074\u0054\u0069\u006D\u0065'](0.0001,_0x33eg['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0069\u006D\u0065']+t+d);_0xccfe6a['\u0073\u0074\u0061\u0072\u0074'](_0x33eg['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0069\u006D\u0065']+t);_0xccfe6a['\u0073\u0074\u006F\u0070'](_0x33eg['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0069\u006D\u0065']+t+d+0.05);});}catch(e){}}let _0x7b813c=[],_0x4d1ad=false;function _0x7f3c(msg,type="ofni".split("").reverse().join("")){_0x7b813c['\u0070\u0075\u0073\u0068']({'\u006D\u0073\u0067':msg,"type":type});if(!_0x4d1ad)_0xa2731e();}function _0xa2731e(_0x1b2c){if(!_0x7b813c['\u006C\u0065\u006E\u0067\u0074\u0068']){_0x4d1ad=false;return;}_0x4d1ad=!![];const{'\u006D\u0073\u0067':msg,"type":type}=_0x7b813c['\u0073\u0068\u0069\u0066\u0074']();var _0xbab=(845832^845838)+(834882^834884);const _0x77a36a={"info":[")31.0,212,281,6(abgr".split("").reverse().join(""),")54.0,212,281,6(abgr".split("").reverse().join(""),"\u0023\u0030\u0036\u0062\u0036\u0064\u0034"],'\u0073\u0075\u0063\u0063\u0065\u0073\u0073':[")31.0,921,581,61(abgr".split("").reverse().join(""),")54.0,921,581,61(abgr".split("").reverse().join(""),"189b01#".split("").reverse().join("")],'\u0077\u0061\u0072\u006E':[")31.0,11,851,542(abgr".split("").reverse().join(""),"\u0072\u0067\u0062\u0061\u0028\u0032\u0034\u0035\u002C\u0031\u0035\u0038\u002C\u0031\u0031\u002C\u0030\u002E\u0034\u0035\u0029","\u0023\u0066\u0035\u0039\u0065\u0030\u0062"],'\u0065\u0072\u0072\u006F\u0072':["\u0072\u0067\u0062\u0061\u0028\u0032\u0034\u0034\u002C\u0036\u0033\u002C\u0039\u0034\u002C\u0030\u002E\u0031\u0033\u0029","\u0072\u0067\u0062\u0061\u0028\u0032\u0034\u0034\u002C\u0036\u0033\u002C\u0039\u0034\u002C\u0030\u002E\u0034\u0035\u0029","\u0023\u0066\u0034\u0033\u0066\u0035\u0065"]};_0xbab=(280268^280268)+(849879^849877);const _0xefc58g={'\u0069\u006E\u0066\u006F':'<circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>',"success":'<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>','\u0077\u0061\u0072\u006E':"\u003C\u0070\u0061\u0074\u0068\u0020\u0064\u003D\u0022\u004D\u0031\u0030\u002E\u0032\u0039\u0020\u0033\u002E\u0038\u0036\u004C\u0031\u002E\u0038\u0032\u0020\u0031\u0038\u0061\u0032\u0020\u0032\u0020\u0030\u0020\u0030\u0020\u0030\u0020\u0031\u002E\u0037\u0031\u0020\u0033\u0068\u0031\u0036\u002E\u0039\u0034\u0061\u0032\u0020\u0032\u0020\u0030\u0020\u0030\u0020\u0030\u0020\u0031\u002E\u0037\u0031\u002D\u0033\u004C\u0031\u0033\u002E\u0037\u0031\u0020\u0033\u002E\u0038\u0036\u0061\u0032\u0020\u0032\u0020\u0030\u0020\u0030\u0020\u0030\u002D\u0033\u002E\u0034\u0032\u0020\u0030\u007A\u0022\u002F\u003E\u003C\u006C\u0069\u006E\u0065\u0020\u0078\u0031\u003D\u0022\u0031\u0032\u0022\u0020\u0079\u0031\u003D\u0022\u0039\u0022\u0020\u0078\u0032\u003D\u0022\u0031\u0032\u0022\u0020\u0079\u0032\u003D\u0022\u0031\u0033\u0022\u002F\u003E\u003C\u006C\u0069\u006E\u0065\u0020\u0078\u0031\u003D\u0022\u0031\u0032\u0022\u0020\u0079\u0031\u003D\u0022\u0031\u0037\u0022\u0020\u0078\u0032\u003D\u0022\u0031\u0032\u002E\u0030\u0031\u0022\u0020\u0079\u0032\u003D\u0022\u0031\u0037\u0022\u002F\u003E",'\u0065\u0072\u0072\u006F\u0072':'<circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/>'};_0x1b2c=299852^299853;const[bg,border,color]=_0x77a36a[type]||_0x77a36a['\u0069\u006E\u0066\u006F'];var _0x76eb1d=(227418^227411)+(246457^246459);const t=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x76eb1d="ofepnd".split("").reverse().join("");t['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`position:fixed;top:18px;right:18px;z-index:2147483647;background:${bg};border:1px solid ${border};backdrop-filter:blur(14px);border-radius:12px;padding:11px 16px;display:flex;align-items:center;gap:10px;max-width:300px;font-family:'Rajdhani',sans-serif;font-size:13px;font-weight:600;color:#f0f6ff;box-shadow:0 8px 28px rgba(0,0,0,0.55);transform:translateY(-16px);opacity:0;transition:transform 0.3s cubic-bezier(.22,1,.36,1),opacity 0.3s;`;t['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="${color}" stroke-width="2.2" style="flex-shrink:0">${_0xefc58g[type]||_0xefc58g['\u0069\u006E\u0066\u006F']}</svg><span>${msg}</span>`;document['\u0062\u006F\u0064\u0079']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](t);requestAnimationFrame(()=>{t['\u0073\u0074\u0079\u006C\u0065']['\u0074\u0072\u0061\u006E\u0073\u0066\u006F\u0072\u006D']=")0(Yetalsnart".split("").reverse().join("");t['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0070\u0061\u0063\u0069\u0074\u0079']="\u0031";});setTimeout(()=>{t['\u0073\u0074\u0079\u006C\u0065']['\u0074\u0072\u0061\u006E\u0073\u0066\u006F\u0072\u006D']="\u0074\u0072\u0061\u006E\u0073\u006C\u0061\u0074\u0065\u0059\u0028\u002D\u0031\u0036\u0070\u0078\u0029";t['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0070\u0061\u0063\u0069\u0074\u0079']="\u0030";setTimeout(()=>{t['\u0072\u0065\u006D\u006F\u0076\u0065']();_0xa2731e();},179754^180074);},164972^167580);}function _0xe4edcg(key,_0x4646db,_0x452b6b,_0x4e7dd,_0x39a37d,_0x5755db){if(!document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006E\u0065\u0078\u0075\u0073\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0066\u006F\u006E\u0074")){let _0x7868fd;const l=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u006C\u0069\u006E\u006B");_0x7868fd=(634376^634381)+(207241^207242);l['\u0069\u0064']="tnof-ladom-suxen".split("").reverse().join("");l['\u0072\u0065\u006C']="teehselyts".split("").reverse().join("");l['\u0068\u0072\u0065\u0066']="paws=yalpsid&007;005@thgw:inahdjaR=ylimaf&onoM+hceT+erahS=ylimaf?2ssc/moc.sipaelgoog.stnof//:sptth".split("").reverse().join("");document['\u0068\u0065\u0061\u0064']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](l);}if(!document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006E\u0065\u0078\u0075\u0073\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0073\u0074\u0079\u006C\u0065\u0073")){const s=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0073\u0074\u0079\u006C\u0065");s['\u0069\u0064']="selyts-ladom-suxen".split("").reverse().join("");s['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=`
+                @keyframes nexus-backdrop-in{from{opacity:0}to{opacity:1}}
+                @keyframes nexus-modal-in{from{opacity:0;transform:translateY(22px) scale(0.96)}to{opacity:1;transform:translateY(0) scale(1)}}
+                @keyframes nexus-pulse-border{0%,100%{box-shadow:0 0 0 0 rgba(6,182,212,0),0 0 18px 2px rgba(6,182,212,0.25)}50%{box-shadow:0 0 0 3px rgba(6,182,212,0.2),0 0 28px 6px rgba(6,182,212,0.40)}}
+                @keyframes nexus-copy-flash{0%{background:linear-gradient(135deg,#06b6d4,#0284c7)}40%{background:linear-gradient(135deg,#10b981,#059669)}100%{background:linear-gradient(135deg,#06b6d4,#0284c7)}}
+                #nexus-key-modal-overlay{animation:nexus-backdrop-in 0.25s ease forwards}
+                #nexus-key-modal-box{animation:nexus-modal-in 0.35s cubic-bezier(.22,1,.36,1) forwards}
+            `;document['\u0068\u0065\u0061\u0064']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](s);}const _0x5751e=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("vid".split("").reverse().join(""));_0x4646db=(361196^361195)+(176789^176791);_0x5751e['\u0069\u0064']="\u006E\u0065\u0078\u0075\u0073\u002D\u006B\u0065\u0079\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u006F\u0076\u0065\u0072\u006C\u0061\u0079";_0x5751e['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`position:fixed;inset:0;z-index:2147483647;background:rgba(2,6,23,0.84);backdrop-filter:blur(7px);display:flex;align-items:center;justify-content:center;font-family:'Rajdhani',sans-serif;`;var _0xc28fbc=(346893^346893)+(765847^765845);const _0xe3b=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0xc28fbc=294836^294836;_0xe3b['\u0069\u0064']="xob-ladom-yek-suxen".split("").reverse().join("");_0xe3b['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`background:linear-gradient(160deg,rgba(15,23,42,0.98),rgba(8,16,36,0.98));border:1px solid rgba(6,182,212,0.30);border-radius:20px;padding:34px 30px 26px;width:min(420px,90vw);box-sizing:border-box;color:#f8fafc;text-align:center;position:relative;overflow:hidden;animation:nexus-pulse-border 2.8s ease-in-out infinite;`;const _0x2g991c=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x452b6b=(671879^671879)+(656098^656100);_0x2g991c['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`position:absolute;inset:0;pointer-events:none;z-index:0;background:linear-gradient(180deg,transparent 40%,rgba(6,182,212,0.04) 50%,transparent 60%);background-size:100% 300%;`;_0xe3b['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x2g991c);var _0x_0xcc4=(392140^392141)+(251321^251312);const _0x3837db=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x_0xcc4=(753669^753667)+(607924^607933);_0x3837db['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=";1:xedni-z;evitaler:noitisop".split("").reverse().join("");_0x3837db['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`
+            <div style="width:50px;height:50px;border-radius:50%;background:linear-gradient(135deg,rgba(6,182,212,0.18),rgba(139,92,246,0.18));border:1.5px solid rgba(6,182,212,0.45);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
             </div>
-            <div style="font-size:11px; letter-spacing:0.18em; color:#06b6d4; text-transform:uppercase; margin-bottom:6px; font-family:'Rajdhani',sans-serif; font-weight:700;">
-                Nexus Guard
-            </div>
-            <div style="font-size:22px; font-weight:700; letter-spacing:0.03em; margin-bottom:4px;">
-                Key Secured
-            </div>
-            <div style="font-size:13px; color:#64748b; margin-bottom:22px; font-family:'Rajdhani',sans-serif;">
-                Your Nexus key has been captured and stored.
-            </div>
-        `;
-    const _0x5e792b = document[
-      "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-    ]("vid".split("").reverse().join(""));
-    _0x5e792b["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            background: rgba(0,0,0,0.45);
-            border: 1px solid rgba(6,182,212,0.22);
-            border-radius: 12px;
-            padding: 14px 16px;
-            margin-bottom: 18px;
-            font-family: 'Share Tech Mono', monospace;
-            font-size: 13.5px;
-            color: #06b6d4;
-            word-break: break-all;
-            line-height: 1.6;
-            text-align: left;
-            letter-spacing: 0.04em;
-        `;
-    _0x5e792b[
-      "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-    ] = key;
-    _0xf0f3d[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x5e792b);
-    const _0x476fb =
-      document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0064\u0069\u0076");
-    _0x476fb["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = ";xp01:pag ;xelf:yalpsid".split("").reverse().join("");
-    const _0x3_0xef4 = document[
-      "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-    ]("\u0062\u0075\u0074\u0074\u006F\u006E");
-    _0x3_0xef4[
-      "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-    ] = "yeK ypoC".split("").reverse().join("");
-    _0x3_0xef4["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            flex: 1;
-            background: linear-gradient(135deg,#06b6d4,#0284c7);
-            color: #fff; border: none; border-radius: 11px;
-            padding: 12px; font-size: 14px; font-weight: 700;
-            cursor: pointer; font-family: 'Rajdhani', sans-serif;
-            letter-spacing: 0.05em; transition: opacity 0.15s;
-        `;
-    _0x3_0xef4[
-      "\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006F\u0076\u0065\u0072"
-    ] = () => {
-      _0x3_0xef4["\u0073\u0074\u0079\u006C\u0065"][
-        "\u006F\u0070\u0061\u0063\u0069\u0074\u0079"
-      ] = "88.0".split("").reverse().join("");
-    };
-    _0x3_0xef4[
-      "\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006C\u0065\u0061\u0076\u0065"
-    ] = () => {
-      _0x3_0xef4["\u0073\u0074\u0079\u006C\u0065"][
-        "\u006F\u0070\u0061\u0063\u0069\u0074\u0079"
-      ] = "\u0031";
-    };
-    _0x3_0xef4["\u006F\u006E\u0063\u006C\u0069\u0063\u006B"] = () => {
-      navigator["\u0063\u006C\u0069\u0070\u0062\u006F\u0061\u0072\u0064"]
-        ["\u0077\u0072\u0069\u0074\u0065\u0054\u0065\u0078\u0074"](key)
-        ["\u0074\u0068\u0065\u006E"](() => {
-          _0x3_0xef4[
-            "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-          ] = "\u2713\u0020\u0043\u006F\u0070\u0069\u0065\u0064\u0021";
-          _0x3_0xef4["\u0073\u0074\u0079\u006C\u0065"][
-            "\u0061\u006E\u0069\u006D\u0061\u0074\u0069\u006F\u006E"
-          ] = "sdrawrof esae s7.0 hsalf-ypoc-suxen"
-            .split("")
-            .reverse()
-            .join("");
-          setTimeout(() => {
-            _0x3_0xef4[
-              "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-            ] = "\u0043\u006F\u0070\u0079\u0020\u004B\u0065\u0079";
-            _0x3_0xef4["\u0073\u0074\u0079\u006C\u0065"][
-              "\u0061\u006E\u0069\u006D\u0061\u0074\u0069\u006F\u006E"
-            ] = "";
-          }, 270398 ^ 272366);
-        })
-        ["\u0063\u0061\u0074\u0063\u0068"](() => {
-          const _0x4_0xbg7 = document[
-            "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-          ]("\u0074\u0065\u0078\u0074\u0061\u0072\u0065\u0061");
-          _0x4_0xbg7["\u0076\u0061\u006C\u0075\u0065"] = key;
-          _0x4_0xbg7["\u0073\u0074\u0079\u006C\u0065"][
-            "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-          ] =
-            "\u0070\u006F\u0073\u0069\u0074\u0069\u006F\u006E\u003A\u0066\u0069\u0078\u0065\u0064\u003B\u006F\u0070\u0061\u0063\u0069\u0074\u0079\u003A\u0030\u003B";
-          document["\u0062\u006F\u0064\u0079"][
-            "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-          ](_0x4_0xbg7);
-          _0x4_0xbg7["\u0073\u0065\u006C\u0065\u0063\u0074"]();
-          document[
-            "\u0065\u0078\u0065\u0063\u0043\u006F\u006D\u006D\u0061\u006E\u0064"
-          ]("\u0063\u006F\u0070\u0079");
-          document["\u0062\u006F\u0064\u0079"][
-            "\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064"
-          ](_0x4_0xbg7);
-          _0x3_0xef4[
-            "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-          ] = "\u2713\u0020\u0043\u006F\u0070\u0069\u0065\u0064\u0021";
-          setTimeout(() => {
-            _0x3_0xef4[
-              "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-            ] = "yeK ypoC".split("").reverse().join("");
-          }, 466348 ^ 465532);
-        });
-    };
-    const _0x5_0xad1 = document[
-      "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-    ]("nottub".split("").reverse().join(""));
-    _0x5_0xad1[
-      "\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074"
-    ] = "\u0044\u0069\u0073\u006D\u0069\u0073\u0073";
-    _0x5_0xad1["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] = `
-            flex: 1;
-            background: rgba(255,255,255,0.05);
-            color: #94a3b8; border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 11px; padding: 12px; font-size: 14px; font-weight: 600;
-            cursor: pointer; font-family: 'Rajdhani', sans-serif;
-            letter-spacing: 0.05em; transition: background 0.15s, color 0.15s;
-        `;
-    _0x5_0xad1[
-      "\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006F\u0076\u0065\u0072"
-    ] = () => {
-      _0x5_0xad1["\u0073\u0074\u0079\u006C\u0065"][
-        "\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064"
-      ] =
-        "\u0072\u0067\u0062\u0061\u0028\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0030\u002E\u0031\u0029";
-      _0x5_0xad1["\u0073\u0074\u0079\u006C\u0065"][
-        "\u0063\u006F\u006C\u006F\u0072"
-      ] = "\u0023\u0066\u0038\u0066\u0061\u0066\u0063";
-    };
-    _0x5_0xad1[
-      "\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006C\u0065\u0061\u0076\u0065"
-    ] = () => {
-      _0x5_0xad1["\u0073\u0074\u0079\u006C\u0065"][
-        "\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064"
-      ] = ")50.0,552,552,552(abgr".split("").reverse().join("");
-      _0x5_0xad1["\u0073\u0074\u0079\u006C\u0065"][
-        "\u0063\u006F\u006C\u006F\u0072"
-      ] = "8b3a49#".split("").reverse().join("");
-    };
-    _0x5_0xad1["\u006F\u006E\u0063\u006C\u0069\u0063\u006B"] = () => {
-      _0xfa2eb["\u0072\u0065\u006D\u006F\u0076\u0065"]();
-    };
-    _0x476fb[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x3_0xef4);
-    _0x476fb[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x5_0xad1);
-    _0xf0f3d[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x476fb);
-    _0xfa2eb["\u006F\u006E\u0063\u006C\u0069\u0063\u006B"] = (e) => {
-      if (e["\u0074\u0061\u0072\u0067\u0065\u0074"] === _0xfa2eb)
-        _0xfa2eb["\u0072\u0065\u006D\u006F\u0076\u0065"]();
-    };
-    _0x4g9a[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0xf0f3d);
-    _0xfa2eb[
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x4g9a);
-    document["\u0062\u006F\u0064\u0079"][
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0xfa2eb);
-  }
-  if (_0x97879d && _0xd962cd) {
-    let _0x154b8e = 536758 ^ 536758;
-    var _0xb3931b = (275847 ^ 275843) + (997654 ^ 997655);
-    const _0xa2738e = setInterval(() => {
-      _0x154b8e++;
-      const _0xb_0x907 = document[
-        "\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C"
-      ]("\u0063\u006F\u0064\u0065");
-      for (const _0xgc_0xb56 of _0xb_0x907) {
-        let _0x679c5d;
-        const _0xfc49e =
-          _0xgc_0xb56["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"][
-            "\u0074\u0072\u0069\u006D"
-          ]();
-        _0x679c5d = (323388 ^ 323386) + (858566 ^ 858560);
-        if (
-          _0xfc49e["\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073"](
-            "DARCNIA".split("").reverse().join(""),
-          )
-        ) {
-          GM_setValue(
-            "yeKsuxeNdetcartxe".split("").reverse().join(""),
-            _0xfc49e,
-          );
-          clearInterval(_0xa2738e);
-          _0x9d05b(_0xfc49e);
-          return;
-        }
-      }
-      if (_0x154b8e > (700248 ^ 700247)) clearInterval(_0xa2738e);
-    }, 242624 ^ 241704);
-    _0xb3931b = (909752 ^ 909745) + (727992 ^ 727985);
-    return;
-  }
-  setInterval(() => {
-    if (
-      document["\u0062\u006F\u0064\u0079"] &&
-      !document[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ](
-        "\u006E\u0065\u0078\u0075\u0073\u002D\u0067\u0075\u0061\u0072\u0064\u002D\u0072\u006F\u006F\u0074",
-      )
-    ) {
-      _0xddf5gd();
-    }
-  }, 990601 ^ 990817);
-  function _0xddf5gd() {
-    var _0x20d3da = (969061 ^ 969058) + (448419 ^ 448426);
-    const _0x86b2b =
-      document[
-        "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-      ]("\u0064\u0069\u0076");
-    _0x20d3da = "\u0070\u0070\u0062\u0063\u0063\u006D";
-    _0x86b2b["\u0069\u0064"] =
-      "\u006E\u0065\u0078\u0075\u0073\u002D\u0067\u0075\u0061\u0072\u0064\u002D\u0072\u006F\u006F\u0074";
-    _0x86b2b["\u0073\u0074\u0079\u006C\u0065"][
-      "\u0063\u0073\u0073\u0054\u0065\u0078\u0074"
-    ] =
-      "\u0070\u006F\u0073\u0069\u0074\u0069\u006F\u006E\u003A\u0066\u0069\u0078\u0065\u0064\u003B\u0020\u0062\u006F\u0074\u0074\u006F\u006D\u003A\u0032\u0030\u0070\u0078\u003B\u0020\u0072\u0069\u0067\u0068\u0074\u003A\u0032\u0030\u0070\u0078\u003B\u0020\u007A\u002D\u0069\u006E\u0064\u0065\u0078\u003A\u0039\u0039\u0039\u0039\u0039\u0039\u003B";
-    document["\u0062\u006F\u0064\u0079"][
-      "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-    ](_0x86b2b);
-    const _0x1egcdc = _0x86b2b[
-      "\u0061\u0074\u0074\u0061\u0063\u0068\u0053\u0068\u0061\u0064\u006F\u0077"
-    ]({ mode: "\u006F\u0070\u0065\u006E" });
-    _0x1egcdc["\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C"] = `
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap"/>
-            <style>
-                /* ── Base tokens ── */
-                :host {
-                    --cyan:   #06b6d4;
-                    --cyan2:  #0e7490;
-                    --purple: #8b5cf6;
-                    --purple2:#6d28d9;
-                    --green:  #10b981;
-                    --red:    #f43f5e;
-                    --bg:     rgba(8, 14, 30, 0.97);
-                    --surface:rgba(15, 25, 50, 0.80);
-                    --border: rgba(6,182,212,0.18);
-                    --text:   #f0f6ff;
-                    --muted:  #64748b;
-                    --font:   'Rajdhani', sans-serif;
-                    --mono:   'Share Tech Mono', monospace;
-                }
+            <div style="font-size:11px;letter-spacing:0.18em;color:#06b6d4;text-transform:uppercase;margin-bottom:5px;font-weight:700;">Nexus Guard</div>
+            <div style="font-size:21px;font-weight:700;letter-spacing:0.03em;margin-bottom:4px;">Key Secured</div>
+            <div style="font-size:13px;color:#64748b;margin-bottom:20px;">Your Nexus key has been captured and stored.</div>
+        `;var _0xd_0xf7e=(517576^517578)+(665557^665565);let _0x4d9d=!![];_0xd_0xf7e=(376162^376165)+(890296^890289);const _0x86fe=key['\u0073\u0075\u0062\u0073\u0074\u0072\u0069\u006E\u0067'](708631^708631,776251^776241)+"\u2022"['\u0072\u0065\u0070\u0065\u0061\u0074'](Math['\u006D\u0061\u0078'](476517^476517,key['\u006C\u0065\u006E\u0067\u0074\u0068']-(506554^506544)));_0x4e7dd=(947054^947046)+(944705^944709);var _0x31ce=(410240^410249)+(964004^964002);const _0x6848gd=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x31ce=(295023^295014)+(283006^282998);_0x6848gd['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']="\u0070\u006F\u0073\u0069\u0074\u0069\u006F\u006E\u003A\u0072\u0065\u006C\u0061\u0074\u0069\u0076\u0065\u003B\u006D\u0061\u0072\u0067\u0069\u006E\u002D\u0062\u006F\u0074\u0074\u006F\u006D\u003A\u0031\u0036\u0070\u0078\u003B";var _0x6cc=(266050^266052)+(364383^364377);const _0xfca90b=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x6cc=(559300^559297)+(892898^892902);_0xfca90b['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`background:rgba(0,0,0,0.45);border:1px solid rgba(6,182,212,0.22);border-radius:12px;padding:13px 42px 13px 14px;font-family:'Share Tech Mono',monospace;font-size:13px;color:#06b6d4;word-break:break-all;line-height:1.6;text-align:left;letter-spacing:0.04em;`;_0xfca90b['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=_0x86fe;var _0xg1c8d=(429636^429635)+(622923^622927);const _0xa5e35c=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0062\u0075\u0074\u0074\u006F\u006E");_0xg1c8d=(622867^622868)+(484554^484554);_0xa5e35c['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`position:absolute;right:10px;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;color:#64748b;padding:4px;display:flex;align-items:center;transition:color 0.15s;`;_0xa5e35c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>`;_0xa5e35c['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{_0x4d9d=!_0x4d9d;_0xfca90b['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=_0x4d9d?_0x86fe:key;_0xa5e35c['\u0073\u0074\u0079\u006C\u0065']['\u0063\u006F\u006C\u006F\u0072']=_0x4d9d?"\u0023\u0036\u0034\u0037\u0034\u0038\u0062":"4d6b60#".split("").reverse().join("");};_0x6848gd['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xfca90b);_0x6848gd['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xa5e35c);_0x3837db['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x6848gd);const _0xd6cb=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x39a37d=(287397^287393)+(271045^271043);_0xd6cb['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']="\u0064\u0069\u0073\u0070\u006C\u0061\u0079\u003A\u0066\u006C\u0065\u0078\u003B\u0067\u0061\u0070\u003A\u0031\u0030\u0070\u0078\u003B";const _0x66863e=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0062\u0075\u0074\u0074\u006F\u006E");_0x5755db=(275226^275219)+(283821^283813);_0x66863e['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:6px"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy Key`;_0x66863e['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`flex:1;background:linear-gradient(135deg,#06b6d4,#0284c7);color:#fff;border:none;border-radius:11px;padding:12px;font-size:14px;font-weight:700;cursor:pointer;font-family:'Rajdhani',sans-serif;letter-spacing:0.05em;transition:opacity 0.15s;display:flex;align-items:center;justify-content:center;`;_0x66863e['\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006F\u0076\u0065\u0072']=()=>{_0x66863e['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0070\u0061\u0063\u0069\u0074\u0079']="\u0030\u002E\u0038\u0038";};_0x66863e['\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006C\u0065\u0061\u0076\u0065']=()=>{_0x66863e['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0070\u0061\u0063\u0069\u0074\u0079']="\u0031";};var _0xa1b2c=(819656^819657)+(115053^115045);const _0xaffd3d=()=>{_0x66863e['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:6px"><polyline points="20 6 9 17 4 12"/></svg>Copied!`;_0x66863e['\u0073\u0074\u0079\u006C\u0065']['\u0061\u006E\u0069\u006D\u0061\u0074\u0069\u006F\u006E']="\u006E\u0065\u0078\u0075\u0073\u002D\u0063\u006F\u0070\u0079\u002D\u0066\u006C\u0061\u0073\u0068\u0020\u0030\u002E\u0037\u0073\u0020\u0065\u0061\u0073\u0065\u0020\u0066\u006F\u0072\u0077\u0061\u0072\u0064\u0073";setTimeout(()=>{_0x66863e['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:6px"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy Key`;_0x66863e['\u0073\u0074\u0079\u006C\u0065']['\u0061\u006E\u0069\u006D\u0061\u0074\u0069\u006F\u006E']="";},549243^551395);};_0xa1b2c=(972831^972830)+(433829^433825);_0x66863e['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{navigator['\u0063\u006C\u0069\u0070\u0062\u006F\u0061\u0072\u0064']['\u0077\u0072\u0069\u0074\u0065\u0054\u0065\u0078\u0074'](key)['\u0074\u0068\u0065\u006E'](_0xaffd3d)['\u0063\u0061\u0074\u0063\u0068'](()=>{const _0x01gg=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0074\u0065\u0078\u0074\u0061\u0072\u0065\u0061");_0x01gg['\u0076\u0061\u006C\u0075\u0065']=key;_0x01gg['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=";0:yticapo;dexif:noitisop".split("").reverse().join("");document['\u0062\u006F\u0064\u0079']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x01gg);_0x01gg['\u0073\u0065\u006C\u0065\u0063\u0074']();document['\u0065\u0078\u0065\u0063\u0043\u006F\u006D\u006D\u0061\u006E\u0064']("\u0063\u006F\u0070\u0079");document['\u0062\u006F\u0064\u0079']['\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064'](_0x01gg);_0xaffd3d();});};var _0xf_0xg38=(550802^550801)+(820474^820473);const _0x1ba=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0062\u0075\u0074\u0074\u006F\u006E");_0xf_0xg38=891084^891081;_0x1ba['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u0044\u0069\u0073\u006D\u0069\u0073\u0073";_0x1ba['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`flex:1;background:rgba(255,255,255,0.05);color:#94a3b8;border:1px solid rgba(255,255,255,0.1);border-radius:11px;padding:12px;font-size:14px;font-weight:600;cursor:pointer;font-family:'Rajdhani',sans-serif;letter-spacing:0.05em;transition:background 0.15s,color 0.15s;`;_0x1ba['\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006F\u0076\u0065\u0072']=()=>{_0x1ba['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']="\u0072\u0067\u0062\u0061\u0028\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0030\u002E\u0031\u0029";_0x1ba['\u0073\u0074\u0079\u006C\u0065']['\u0063\u006F\u006C\u006F\u0072']="cfaf8f#".split("").reverse().join("");};_0x1ba['\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006C\u0065\u0061\u0076\u0065']=()=>{_0x1ba['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']="\u0072\u0067\u0062\u0061\u0028\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0032\u0035\u0035\u002C\u0030\u002E\u0030\u0035\u0029";_0x1ba['\u0073\u0074\u0079\u006C\u0065']['\u0063\u006F\u006C\u006F\u0072']="8b3a49#".split("").reverse().join("");};_0x1ba['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>_0x5751e['\u0072\u0065\u006D\u006F\u0076\u0065']();_0xd6cb['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x66863e);_0xd6cb['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x1ba);_0x3837db['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xd6cb);_0x5751e['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=e=>{if(e['\u0074\u0061\u0072\u0067\u0065\u0074']===_0x5751e)_0x5751e['\u0072\u0065\u006D\u006F\u0076\u0065']();};_0xe3b['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x3837db);_0x5751e['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xe3b);document['\u0062\u006F\u0064\u0079']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x5751e);}const _0xd930d=new URL(window['\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E']['\u0068\u0072\u0065\u0066']);var _0x2_0x17e=(424596^424598)+(250162^250167);const _0x56a=_0xd930d['\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0061\u0069\u006E\u0063\u0072\u0061\u0064\u006D\u006F\u0064\u0073\u002E\u0063\u006F\u006D")&&_0xd930d['\u0070\u0061\u0074\u0068\u006E\u0061\u006D\u0065']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("yekteg".split("").reverse().join(""));_0x2_0x17e=(327177^327179)+(642727^642725);const _0x0a5e=_0xd930d['\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073']['\u0068\u0061\u0073']("\u0067\u0065\u0074\u004B\u0065\u0079")&&_0xd930d['\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073']['\u0067\u0065\u0074']("yeKteg".split("").reverse().join(""))!==""||_0xd930d['\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073']['\u0068\u0061\u0073']("nekot".split("").reverse().join(""))&&_0xd930d['\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073']['\u0067\u0065\u0074']("nekot".split("").reverse().join(""))!=="";if(_0x56a&&_0x0a5e){let _0x3a1fe=686629^686629;const _0x98da8a=setInterval(()=>{_0x3a1fe++;let _0xeb09e;const _0x55cbce=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u0063\u006F\u0064\u0065");_0xeb09e=(893921^893922)+(501572^501573);for(const el of _0x55cbce){const _0xafd=el['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']['\u0074\u0072\u0069\u006D']();if(_0xafd['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("DARCNIA".split("").reverse().join(""))){GM_setValue("\u0065\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u004E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",_0xafd);clearInterval(_0x98da8a);_0xcd473f(_0xafd);_0x35f85b("\u0063\u0061\u0070\u0074\u0075\u0072\u0065");GM_xmlhttpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"POST",'\u0075\u0072\u006C':`${_0x4d_0xa3e}/track-extraction`,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':{"Content-Type":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E"},"data":JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({'\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064':_0x3f3cd,"licenseKey":GM_getValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079"),'\u0065\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u0050\u0061\u0079\u006C\u006F\u0061\u0064':_0xafd}),'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':e=>console['\u0065\u0072\u0072\u006F\u0072']("\u005B\u004E\u0065\u0078\u0075\u0073\u0020\u0047\u0075\u0061\u0072\u0064\u005D\u0020\u0054\u0065\u006C\u0065\u006D\u0065\u0074\u0072\u0079\u0020\u0066\u0061\u0069\u006C\u003A",e),"ontimeout":()=>console['\u0077\u0061\u0072\u006E'](".tuoemit yrtemeleT ]drauG suxeN[".split("").reverse().join(""))});_0x7f3c("\u004B\u0065\u0079\u0020\u0063\u0061\u0070\u0074\u0075\u0072\u0065\u0064\u0020\u0073\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006C\u006C\u0079\u0021","\u0073\u0075\u0063\u0063\u0065\u0073\u0073");_0xe4edcg(_0xafd);return;}}if(_0x3a1fe>(959519^959504))clearInterval(_0x98da8a);},675139^675499);return;}setInterval(()=>{if(document['\u0062\u006F\u0064\u0079']&&!document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("toor-draug-suxen".split("").reverse().join("")))_0x8f_0x592();},279201^278857);document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("nwodyek".split("").reverse().join(""),e=>{if(e['\u0061\u006C\u0074\u004B\u0065\u0079']&&e['\u0073\u0068\u0069\u0066\u0074\u004B\u0065\u0079']&&e['\u006B\u0065\u0079']==="\u004E"){let _0xe4c;const _0x9ad9cb=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006E\u0065\u0078\u0075\u0073\u002D\u0067\u0075\u0061\u0072\u0064\u002D\u0072\u006F\u006F\u0074");_0xe4c=(976068^976077)+(513368^513361);if(!_0x9ad9cb)return;var _0xb6452e=(857585^857590)+(308848^308854);const _0xd1225f=_0x9ad9cb['\u0073\u0068\u0061\u0064\u006F\u0077\u0052\u006F\u006F\u0074'];_0xb6452e=259723^259725;var _0xaf49e=(416935^416932)+(646102^646111);const panel=_0xd1225f&&_0xd1225f['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("lenap".split("").reverse().join(""));_0xaf49e='\u0066\u006F\u006B\u0067\u0070\u0069';if(!panel)return;var _0xd8c35e=(144204^144201)+(658884^658884);const opening=panel['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']!=="\u0066\u006C\u0065\u0078";_0xd8c35e=(301547^301544)+(414082^414085);panel['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']=opening?"xelf".split("").reverse().join(""):"enon".split("").reverse().join("");if(opening&&_0xd1225f['\u005F\u0062\u006F\u006F\u0074'])_0xd1225f['\u005F\u0062\u006F\u006F\u0074']();}});let _0xgef29d=225474^225474,_0x2bg4c=null;function _0x8f_0x592(){const _0x2a197b=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("vid".split("").reverse().join(""));_0x2a197b['\u0069\u0064']="\u006E\u0065\u0078\u0075\u0073\u002D\u0067\u0075\u0061\u0072\u0064\u002D\u0072\u006F\u006F\u0074";var _0x4c376b=(733057^733061)+(460501^460499);const _0x858f=_0xf9cf2c();_0x4c376b=(626283^626275)+(454637^454632);_0x2a197b['\u0073\u0074\u0079\u006C\u0065']['\u0063\u0073\u0073\u0054\u0065\u0078\u0074']=`position:fixed;z-index:999999;user-select:none;
+            bottom:${_0x858f?_0x858f['\u0062\u006F\u0074\u0074\u006F\u006D']:774409^774429}px;
+            right:${_0x858f?_0x858f['\u0072\u0069\u0067\u0068\u0074']:833058^833078}px;`;document['\u0062\u006F\u0064\u0079']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x2a197b);const _0xb9gcb=_0x2a197b['\u0061\u0074\u0074\u0061\u0063\u0068\u0053\u0068\u0061\u0064\u006F\u0077']({'\u006D\u006F\u0064\u0065':"open"});_0xb9gcb['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap"/>
+        <style>
+            :host{
+                --cyan:#06b6d4;--cyan2:#0e7490;--purple:#8b5cf6;--purple2:#6d28d9;
+                --green:#10b981;--red:#f43f5e;--amber:#f59e0b;
+                --bg:rgba(8,14,30,0.97);--border:rgba(6,182,212,0.18);
+                --text:#f0f6ff;--muted:#64748b;
+                --font:'Rajdhani',sans-serif;--mono:'Share Tech Mono',monospace;
+            }
+            @keyframes ng-float-in{from{opacity:0;transform:translateY(14px) scale(0.97)}to{opacity:1;transform:translateY(0) scale(1)}}
+            @keyframes ng-glow{0%,100%{box-shadow:0 0 0 0 rgba(6,182,212,0),0 8px 32px rgba(0,0,0,0.6)}50%{box-shadow:0 0 20px 4px rgba(6,182,212,0.18),0 8px 32px rgba(0,0,0,0.6)}}
+            @keyframes ng-scan{0%{transform:translateY(-100%)}100%{transform:translateY(400%)}}
+            @keyframes ng-btn-idle{0%,100%{box-shadow:0 0 0 0 rgba(6,182,212,0)}50%{box-shadow:0 0 12px 3px rgba(6,182,212,0.35)}}
+            @keyframes ng-spin{to{transform:rotate(360deg)}}
+            @keyframes ng-blink{0%,100%{opacity:1}50%{opacity:0.3}}
+            @keyframes ng-pulse-dot{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.5;transform:scale(0.7)}}
+            @keyframes ng-screen-in{from{opacity:0;transform:translateX(10px)}to{opacity:1;transform:translateX(0)}}
 
-                /* ── Keyframes ── */
-                @keyframes ng-float-in {
-                    from { opacity:0; transform:translateY(14px) scale(0.97); }
-                    to   { opacity:1; transform:translateY(0)    scale(1);    }
-                }
-                @keyframes ng-glow-pulse {
-                    0%,100% { box-shadow: 0 0 0 0 rgba(6,182,212,0),  0 8px 32px rgba(0,0,0,0.6); }
-                    50%     { box-shadow: 0 0 20px 4px rgba(6,182,212,0.18), 0 8px 32px rgba(0,0,0,0.6); }
-                }
-                @keyframes ng-scan {
-                    0%   { transform: translateY(-100%); }
-                    100% { transform: translateY(400%);  }
-                }
-                @keyframes ng-btn-idle {
-                    0%,100% { box-shadow: 0 0 0 0 rgba(6,182,212,0); }
-                    50%     { box-shadow: 0 0 12px 3px rgba(6,182,212,0.35); }
-                }
-                @keyframes ng-spin { to { transform: rotate(360deg); } }
-                @keyframes ng-blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+            /* FAB */
+            #launcher{background:linear-gradient(135deg,var(--cyan),var(--purple));width:52px;height:52px;border-radius:50%;border:none;cursor:grab;box-shadow:0 4px 18px rgba(6,182,212,0.45),0 2px 6px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;color:white;transition:transform 0.2s,box-shadow 0.2s;position:relative;}
+            #launcher:active{cursor:grabbing;}
+            #launcher::after{content:'';position:absolute;inset:-3px;border-radius:50%;background:conic-gradient(from 0deg,var(--cyan),var(--purple),var(--cyan));z-index:-1;opacity:0;transition:opacity 0.2s;}
+            #launcher:hover{transform:scale(1.08);box-shadow:0 6px 24px rgba(6,182,212,0.6);}
+            #launcher:hover::after{opacity:1;animation:ng-spin 2s linear infinite;}
 
-                /* ── Launcher FAB ── */
-                #launcher {
-                    background: linear-gradient(135deg, var(--cyan), var(--purple));
-                    width: 52px; height: 52px; border-radius: 50%; border: none;
-                    cursor: pointer;
-                    box-shadow: 0 4px 18px rgba(6,182,212,0.45), 0 2px 6px rgba(0,0,0,0.5);
-                    display: flex; align-items: center; justify-content: center;
-                    color: white; transition: transform 0.2s, box-shadow 0.2s;
-                    position: relative;
-                }
-                #launcher::after {
-                    content:''; position:absolute; inset:-3px; border-radius:50%;
-                    background: conic-gradient(from 0deg, var(--cyan), var(--purple), var(--cyan));
-                    z-index:-1; opacity:0; border-radius:50%;
-                    transition: opacity 0.2s;
-                }
-                #launcher:hover { transform: scale(1.08); box-shadow: 0 6px 24px rgba(6,182,212,0.6); }
-                #launcher:hover::after { opacity:1; animation: ng-spin 2s linear infinite; }
+            /* Version badge on FAB */
+            #fabBadge{position:absolute;top:-4px;right:-4px;background:linear-gradient(135deg,var(--cyan),var(--purple));border:1.5px solid rgba(8,14,30,0.9);border-radius:8px;font-family:var(--mono);font-size:8px;color:white;padding:1px 4px;pointer-events:none;letter-spacing:0.04em;white-space:nowrap;}
 
-                /* ── Panel ── */
-                #panel {
-                    display: none;
-                    width: 360px;
-                    background: var(--bg);
-                    backdrop-filter: blur(20px);
-                    border: 1px solid var(--border);
-                    border-radius: 20px;
-                    margin-bottom: 14px;
-                    color: var(--text);
-                    box-shadow: 0 24px 60px rgba(0,0,0,0.7), inset 0 1px 0 rgba(255,255,255,0.06);
-                    flex-direction: column;
-                    align-items: stretch;
-                    text-align: center;
-                    overflow: hidden;
-                    animation: ng-float-in 0.3s cubic-bezier(.22,1,.36,1) forwards, ng-glow-pulse 3s ease-in-out infinite;
-                    font-family: var(--font);
-                }
+            /* Shortcut tooltip */
+            #fabTooltip{position:absolute;bottom:calc(100% + 8px);right:0;background:rgba(8,14,30,0.95);border:1px solid var(--border);border-radius:8px;padding:5px 9px;font-family:var(--font);font-size:11px;color:var(--muted);white-space:nowrap;pointer-events:none;opacity:0;transform:translateY(4px);transition:opacity 0.2s,transform 0.2s;}
+            #fabTooltip kbd{background:rgba(6,182,212,0.12);border:1px solid rgba(6,182,212,0.25);border-radius:4px;padding:1px 5px;color:var(--cyan);font-family:var(--mono);font-size:10px;}
+            #launcher:hover #fabTooltip{opacity:1;transform:translateY(0);}
 
-                /* Panel header bar */
-                .ng-header {
-                    display: flex; align-items: center; justify-content: space-between;
-                    padding: 14px 18px 12px;
-                    border-bottom: 1px solid rgba(255,255,255,0.06);
-                    background: rgba(6,182,212,0.04);
-                }
-                .ng-logo { display:flex; align-items:center; gap:8px; }
-                .ng-logo-icon {
-                    width:28px; height:28px; border-radius:8px;
-                    background: linear-gradient(135deg, var(--cyan), var(--purple));
-                    display:flex; align-items:center; justify-content:center;
-                }
-                .ng-logo-text { font-size:13px; font-weight:700; letter-spacing:0.12em; color:var(--cyan); text-transform:uppercase; }
-                .ng-version { font-size:10px; color:var(--muted); font-family:var(--mono); letter-spacing:0.06em; }
+            /* Panel */
+            #panel{display:none;width:360px;background:var(--bg);backdrop-filter:blur(20px);border:1px solid var(--border);border-radius:20px;margin-bottom:14px;color:var(--text);box-shadow:0 24px 60px rgba(0,0,0,0.7),inset 0 1px 0 rgba(255,255,255,0.06);flex-direction:column;align-items:stretch;text-align:center;overflow:hidden;animation:ng-float-in 0.3s cubic-bezier(.22,1,.36,1) forwards,ng-glow 3s ease-in-out infinite;font-family:var(--font);}
 
-                /* Scanline effect across full panel */
-                .ng-scanline {
-                    position:absolute; left:0; right:0; height:40%; pointer-events:none;
-                    background: linear-gradient(180deg, transparent, rgba(6,182,212,0.03) 50%, transparent);
-                    animation: ng-scan 4s linear infinite; z-index:0;
-                }
+            /* Header */
+            .ng-header{display:flex;align-items:center;justify-content:space-between;padding:13px 16px 11px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(6,182,212,0.04);}
+            .ng-logo{display:flex;align-items:center;gap:8px;}
+            .ng-logo-icon{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--cyan),var(--purple));display:flex;align-items:center;justify-content:center;}
+            .ng-logo-text{font-size:13px;font-weight:700;letter-spacing:0.12em;color:var(--cyan);text-transform:uppercase;}
+            .ng-header-right{display:flex;align-items:center;gap:10px;}
+            .ng-version{font-size:10px;color:var(--muted);font-family:var(--mono);letter-spacing:0.06em;cursor:pointer;padding:2px 4px;border-radius:4px;transition:color 0.15s;}
+            .ng-version:hover{color:var(--text);}
 
-                /* Screen container */
-                .ng-body { padding: 20px 18px; position:relative; z-index:1; }
+            /* Connection dot */
+            .ng-conn-dot{width:7px;height:7px;border-radius:50%;background:var(--muted);transition:background 0.4s,box-shadow 0.4s;animation:ng-pulse-dot 2s ease-in-out infinite;}
+            .ng-conn-dot.online{background:var(--green);box-shadow:0 0 6px var(--green);}
+            .ng-conn-dot.offline{background:var(--red);box-shadow:0 0 6px var(--red);}
 
-                /* ── Screens ── */
-                .screen { display: none; flex-direction: column; align-items: center; width:100%; }
-                .screen.active { display: flex; }
+            /* Minimize btn */
+            #minimizeBtn{background:none;border:none;cursor:pointer;color:var(--muted);padding:2px;display:flex;align-items:center;transition:color 0.15s;}
+            #minimizeBtn:hover{color:var(--text);}
 
-                /* Screen icon */
-                .ng-icon-wrap {
-                    width:48px; height:48px; border-radius:14px; margin: 0 auto 14px;
-                    display:flex; align-items:center; justify-content:center;
-                    background: rgba(6,182,212,0.08);
-                    border: 1px solid rgba(6,182,212,0.2);
-                }
+            /* Scanline */
+            .ng-scanline{position:absolute;left:0;right:0;height:40%;pointer-events:none;background:linear-gradient(180deg,transparent,rgba(6,182,212,0.03) 50%,transparent);animation:ng-scan 4s linear infinite;z-index:0;}
 
-                h3 { margin: 0 0 6px; font-size:20px; font-weight:700; letter-spacing:0.02em; color:var(--text); }
-                p  { color:var(--muted); font-size:13px; margin: 0 0 18px; line-height:1.5; font-weight:500; }
+            /* Body */
+            .ng-body{padding:20px 18px;position:relative;z-index:1;}
 
-                /* Input */
-                .ng-input-wrap { width:100%; position:relative; margin-bottom:14px; }
-                .ng-input-wrap svg { position:absolute; left:12px; top:50%; transform:translateY(-50%); pointer-events:none; }
-                input {
-                    width:100%; box-sizing:border-box;
-                    background: rgba(0,0,0,0.35);
-                    border: 1px solid rgba(255,255,255,0.09);
-                    border-radius:12px; padding:12px 12px 12px 38px;
-                    color:white; font-family:var(--mono); font-size:12.5px;
-                    letter-spacing:0.05em; outline:none;
-                    transition: border-color 0.2s, box-shadow 0.2s;
-                }
-                input::placeholder { color:var(--muted); font-family:var(--font); font-size:13px; letter-spacing:0; }
-                input:focus {
-                    border-color: var(--cyan);
-                    box-shadow: 0 0 0 3px rgba(6,182,212,0.12);
-                }
+            /* Re-auth banner */
+            #reAuthBanner{display:none;width:100%;box-sizing:border-box;background:rgba(245,158,11,0.09);border:1px solid rgba(245,158,11,0.28);border-radius:11px;padding:10px 13px;margin-bottom:14px;text-align:left;}
+            .ng-banner-row{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+            .ng-banner-text{font-size:12px;color:#f59e0b;font-weight:600;line-height:1.4;}
+            #reAuthNowBtn{background:rgba(245,158,11,0.18);border:1px solid rgba(245,158,11,0.4);color:#f59e0b;font-family:var(--font);font-size:11px;font-weight:700;letter-spacing:0.05em;padding:5px 10px;border-radius:8px;cursor:pointer;white-space:nowrap;transition:background 0.15s;}
+            #reAuthNowBtn:hover{background:rgba(245,158,11,0.3);}
 
-                /* Buttons */
-                .btn {
-                    width:100%; border:none; padding:12px 16px; border-radius:12px;
-                    font-weight:700; font-size:14px; font-family:var(--font);
-                    letter-spacing:0.06em; cursor:pointer; margin-bottom:9px;
-                    transition: opacity 0.15s, transform 0.12s, box-shadow 0.2s;
-                    text-transform: uppercase;
-                }
-                .btn:hover  { opacity:0.88; transform:translateY(-1px); }
-                .btn:active { transform:translateY(0); }
-                .btn:disabled { opacity:0.4; cursor:not-allowed; transform:none; }
+            /* Screens */
+            .screen{display:none;flex-direction:column;align-items:center;width:100%;}
+            .screen.active{display:flex;animation:ng-screen-in 0.25s ease forwards;}
+            .ng-icon-wrap{width:48px;height:48px;border-radius:14px;margin:0 auto 14px;display:flex;align-items:center;justify-content:center;background:rgba(6,182,212,0.08);border:1px solid rgba(6,182,212,0.2);}
+            h3{margin:0 0 6px;font-size:20px;font-weight:700;letter-spacing:0.02em;color:var(--text);}
+            p{color:var(--muted);font-size:13px;margin:0 0 18px;line-height:1.5;font-weight:500;}
 
-                .btn-cyan   { background: linear-gradient(135deg, var(--cyan), var(--cyan2)); color:#fff; animation: ng-btn-idle 2.5s ease-in-out infinite; }
-                .btn-purple { background: linear-gradient(135deg, var(--purple), var(--purple2)); color:#fff; }
-                .btn-green  { background: linear-gradient(135deg, var(--green), #059669); color:#fff; }
+            /* Input */
+            .ng-input-wrap{width:100%;position:relative;margin-bottom:14px;}
+            .ng-input-icon{position:absolute;left:12px;top:50%;transform:translateY(-50%);pointer-events:none;}
+            .ng-eye-btn{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;color:var(--muted);padding:4px;display:flex;align-items:center;transition:color 0.15s;}
+            .ng-eye-btn:hover{color:var(--cyan);}
+            input[type=text],input[type=password]{width:100%;box-sizing:border-box;background:rgba(0,0,0,0.35);border:1px solid rgba(255,255,255,0.09);border-radius:12px;padding:12px 38px 12px 38px;color:white;font-family:var(--mono);font-size:12.5px;letter-spacing:0.05em;outline:none;transition:border-color 0.2s,box-shadow 0.2s;}
+            input[type=text]::placeholder,input[type=password]::placeholder{color:var(--muted);font-family:var(--font);font-size:13px;letter-spacing:0;}
+            input[type=text]:focus,input[type=password]:focus{border-color:var(--cyan);box-shadow:0 0 0 3px rgba(6,182,212,0.12);}
 
-                /* Free license button — outlined ghost style */
-                .btn-free {
-                    background: transparent;
-                    border: 1px solid rgba(6,182,212,0.35);
-                    color: var(--cyan);
-                    font-size:13px;
-                    padding:10px 16px;
-                    letter-spacing:0.05em;
-                    display:flex; align-items:center; justify-content:center; gap:6px;
-                    transition: background 0.18s, border-color 0.18s, transform 0.12s;
-                }
-                .btn-free:hover {
-                    background: rgba(6,182,212,0.08);
-                    border-color: rgba(6,182,212,0.6);
-                    opacity:1;
-                }
+            /* Buttons */
+            .btn{width:100%;border:none;padding:12px 16px;border-radius:12px;font-weight:700;font-size:14px;font-family:var(--font);letter-spacing:0.06em;cursor:pointer;margin-bottom:9px;transition:opacity 0.15s,transform 0.12s;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:7px;}
+            .btn:hover{opacity:0.88;transform:translateY(-1px);}
+            .btn:active{transform:translateY(0);}
+            .btn:disabled{opacity:0.4;cursor:not-allowed;transform:none;}
+            .btn-cyan{background:linear-gradient(135deg,var(--cyan),var(--cyan2));color:#fff;animation:ng-btn-idle 2.5s ease-in-out infinite;}
+            .btn-purple{background:linear-gradient(135deg,var(--purple),var(--purple2));color:#fff;}
+            .btn-green{background:linear-gradient(135deg,var(--green),#059669);color:#fff;}
+            .btn-ghost{background:transparent;border:1px solid rgba(255,255,255,0.1);color:var(--muted);font-size:12px;padding:8px 14px;}
+            .btn-ghost:hover{border-color:rgba(255,255,255,0.2);color:var(--text);opacity:1;}
+            .btn-free{background:transparent;border:1px solid rgba(6,182,212,0.35);color:var(--cyan);font-size:13px;padding:10px 16px;transition:background 0.18s,border-color 0.18s,transform 0.12s;}
+            .btn-free:hover{background:rgba(6,182,212,0.08);border-color:rgba(6,182,212,0.6);opacity:1;}
 
-                /* Divider */
-                .ng-divider {
-                    width:100%; display:flex; align-items:center; gap:10px;
-                    margin-bottom:9px;
-                }
-                .ng-divider::before, .ng-divider::after {
-                    content:''; flex:1; height:1px;
-                    background: rgba(255,255,255,0.07);
-                }
-                .ng-divider span { font-size:11px; color:var(--muted); letter-spacing:0.06em; white-space:nowrap; }
+            /* Checkbox row */
+            .ng-remember-row{display:flex;align-items:center;gap:8px;margin-bottom:12px;cursor:pointer;width:100%;}
+            .ng-remember-row input[type=checkbox]{width:15px;height:15px;accent-color:var(--cyan);cursor:pointer;}
+            .ng-remember-row span{font-size:12px;color:var(--muted);font-weight:500;}
 
-                /* Error box */
-                .error {
-                    display:none; width:100%; box-sizing:border-box;
-                    color:#fca5a5; font-size:12px; font-weight:500;
-                    margin-bottom:12px; padding:9px 12px; border-radius:10px;
-                    background: rgba(244,63,94,0.08);
-                    border: 1px solid rgba(244,63,94,0.22);
-                    text-align:left; line-height:1.4;
-                }
-                .error::before { content:'⚠ '; }
+            /* Divider */
+            .ng-divider{width:100%;display:flex;align-items:center;gap:10px;margin-bottom:9px;}
+            .ng-divider::before,.ng-divider::after{content:'';flex:1;height:1px;background:rgba(255,255,255,0.07);}
+            .ng-divider span{font-size:11px;color:var(--muted);letter-spacing:0.06em;white-space:nowrap;}
 
-                /* Timer screen */
-                #timerDisplay {
-                    font-size:64px; font-weight:700; color:var(--cyan);
-                    margin:4px 0 10px; font-family:var(--mono);
-                    text-shadow: 0 0 30px rgba(6,182,212,0.5);
-                    animation: ng-blink 1s step-end infinite;
-                }
-                .ng-timer-label { font-size:11px; letter-spacing:0.15em; color:var(--muted); text-transform:uppercase; margin-bottom:4px; }
+            /* Error */
+            .error{display:none;width:100%;box-sizing:border-box;color:#fca5a5;font-size:12px;font-weight:500;margin-bottom:12px;padding:9px 12px;border-radius:10px;background:rgba(244,63,94,0.08);border:1px solid rgba(244,63,94,0.22);text-align:left;line-height:1.4;}
+            .error::before{content:'⚠ ';}
 
-                /* Log console */
-                .logs-container {
-                    width:100%; box-sizing:border-box;
-                    height:90px; background:rgba(0,0,0,0.5);
-                    border: 1px solid rgba(6,182,212,0.1);
-                    border-radius:10px; padding:8px 10px;
-                    overflow:hidden; text-align:left;
-                    font-family:var(--mono); font-size:10px; color:var(--cyan);
-                    line-height:1.6;
-                }
-                .log-line { opacity:0.75; }
-                .log-line::before { content:'> '; opacity:0.5; }
+            /* Last used */
+            .ng-last-used{font-size:10px;font-family:var(--mono);color:var(--muted);margin-bottom:16px;letter-spacing:0.04em;}
 
-                /* Ready screen status dot */
-                .ng-status-dot {
-                    width:8px; height:8px; border-radius:50%;
-                    background:var(--green); display:inline-block; margin-right:6px;
-                    box-shadow:0 0 8px var(--green);
-                    animation: ng-blink 1.6s ease-in-out infinite;
-                }
-            </style>
+            /* Key history */
+            .ng-hist-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:7px;}
+            .ng-hist-title{font-size:10px;letter-spacing:0.12em;color:var(--muted);text-transform:uppercase;}
+            .ng-hist-clear{background:none;border:none;cursor:pointer;color:var(--muted);padding:2px;display:flex;align-items:center;transition:color 0.15s;}
+            .ng-hist-clear:hover{color:var(--red);}
+            .ng-hist-wrap{width:100%;box-sizing:border-box;margin-bottom:14px;}
+            .ng-hist-empty{font-size:11px;color:var(--muted);font-family:var(--mono);text-align:center;padding:10px 0;opacity:0.7;}
+            .ng-hist-item{background:rgba(0,0,0,0.3);border:1px solid rgba(255,255,255,0.06);border-radius:9px;padding:7px 10px;margin-bottom:5px;display:flex;align-items:center;gap:8px;}
+            .ng-hist-key{font-family:var(--mono);font-size:10px;color:#94a3b8;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+            .ng-hist-age{font-size:10px;color:var(--muted);white-space:nowrap;}
+            .ng-hist-copy{background:none;border:none;cursor:pointer;color:var(--muted);padding:2px 4px;display:flex;align-items:center;border-radius:4px;transition:color 0.15s;}
+            .ng-hist-copy:hover{color:var(--cyan);}
 
-            <div id="panel">
-                <div class="ng-scanline"></div>
+            /* Sign out row */
+            .ng-signout-row{display:flex;align-items:center;justify-content:flex-end;width:100%;margin-top:4px;margin-bottom:2px;}
+            #signOutBtn{background:none;border:none;cursor:pointer;color:var(--muted);font-family:var(--font);font-size:11px;font-weight:600;display:flex;align-items:center;gap:5px;padding:4px 2px;transition:color 0.15s;letter-spacing:0.04em;}
+            #signOutBtn:hover{color:var(--red);}
 
-                <!-- Header bar -->
-                <div class="ng-header">
-                    <div class="ng-logo">
-                        <div class="ng-logo-icon">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-                        </div>
-                        <span class="ng-logo-text">Nexus Guard</span>
+            /* Update row */
+            .ng-update-row{display:flex;align-items:center;gap:8px;margin-bottom:10px;width:100%;}
+            .ng-update-badge{font-size:10px;font-family:var(--mono);color:var(--muted);flex:1;text-align:left;}
+            .ng-update-badge.new{color:var(--green);}
+            #checkUpdateBtn{background:none;border:1px solid rgba(255,255,255,0.1);border-radius:8px;color:var(--muted);font-family:var(--font);font-size:11px;font-weight:600;padding:5px 10px;cursor:pointer;white-space:nowrap;transition:border-color 0.15s,color 0.15s;}
+            #checkUpdateBtn:hover{border-color:var(--cyan);color:var(--cyan);}
+
+            /* Ready screen */
+            .ng-status-dot{width:8px;height:8px;border-radius:50%;background:var(--green);display:inline-block;margin-right:6px;box-shadow:0 0 8px var(--green);animation:ng-blink 1.6s ease-in-out infinite;}
+
+            /* Timer */
+            #timerDisplay{font-size:64px;font-weight:700;color:var(--cyan);margin:4px 0 10px;font-family:var(--mono);text-shadow:0 0 30px rgba(6,182,212,0.5);animation:ng-blink 1s step-end infinite;}
+            .ng-timer-label{font-size:11px;letter-spacing:0.15em;color:var(--muted);text-transform:uppercase;margin-bottom:4px;}
+            .logs-container{width:100%;box-sizing:border-box;height:90px;background:rgba(0,0,0,0.5);border:1px solid rgba(6,182,212,0.1);border-radius:10px;padding:8px 10px;overflow:hidden;text-align:left;font-family:var(--mono);font-size:10px;color:var(--cyan);line-height:1.6;}
+            .log-line{opacity:0.75;}
+            .log-line::before{content:'> ';opacity:0.5;}
+
+            /* Inject redirect countdown */
+            #redirectCountdown{font-size:13px;color:var(--muted);font-family:var(--mono);margin-top:12px;letter-spacing:0.06em;}
+
+            /* Debug panel */
+            #debugPanel{display:none;width:100%;box-sizing:border-box;background:rgba(0,0,0,0.55);border:1px solid rgba(6,182,212,0.14);border-radius:10px;padding:11px;margin-top:10px;font-family:var(--mono);font-size:10px;color:#94a3b8;text-align:left;line-height:1.9;}
+            .dbg-title{color:var(--cyan);font-weight:700;letter-spacing:0.1em;margin-bottom:5px;display:block;}
+            .dbg-row{display:flex;gap:6px;align-items:flex-start;}
+            .dbg-k{color:var(--muted);white-space:nowrap;}
+            .dbg-v{color:var(--cyan);word-break:break-all;}
+            .dbg-copy{background:none;border:none;cursor:pointer;color:var(--muted);padding:0 0 0 4px;display:inline-flex;align-items:center;transition:color 0.15s;}
+            .dbg-copy:hover{color:var(--cyan);}
+        </style>
+
+        <div id="panel">
+            <div class="ng-scanline"></div>
+
+            <!-- HEADER -->
+            <div class="ng-header">
+                <div class="ng-logo">
+                    <div class="ng-logo-icon">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
                     </div>
-                    <span class="ng-version">v1.0</span>
+                    <span class="ng-logo-text">Nexus Guard</span>
                 </div>
-
-                <div class="ng-body">
-                    <!-- LOGIN SCREEN -->
-                    <div id="screenLogin" class="screen active">
-                        <div class="ng-icon-wrap">
-                            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-                        </div>
-                        <h3>Access Locked</h3>
-                        <p>Enter your private Nexus Key to authenticate your device.</p>
-                        <div class="ng-input-wrap">
-                            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"/></svg>
-                            <input type="password" id="keyInput" placeholder="NEXUS-XXXX-XXXX-XXXX" autocomplete="off"/>
-                        </div>
-                        <div id="loginError" class="error"></div>
-                        <button id="authBtn" class="btn btn-cyan">Authenticate Device</button>
-                        <button id="pasteExtractedBtn" class="btn btn-green" style="display:none;">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="vertical-align:middle; margin-right:6px; margin-top:-2px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Use Extracted Key
-                        </button>
-                        <div class="ng-divider"><span>No key yet?</span></div>
-                        <button id="freeLicenseBtn" class="btn btn-free">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-                            Get Your Free License
-                        </button>
-                    </div>
-
-                    <!-- READY SCREEN -->
-                    <div id="screenReady" class="screen">
-                        <div class="ng-icon-wrap" style="background:rgba(16,185,129,0.08); border-color:rgba(16,185,129,0.25);">
-                            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-                        </div>
-                        <h3 style="color:#10b981;">
-                            <span class="ng-status-dot"></span>Target Locked
-                        </h3>
-                        <p>Secure bridge established. Ready to initiate synchronization protocol.</p>
-                        <button id="startTimerBtn" class="btn btn-cyan" style="display:flex; align-items:center; justify-content:center; gap:7px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Initialize Sync</button>
-                    </div>
-
-                    <!-- TIMER SCREEN -->
-                    <div id="screenTimer" class="screen">
-                        <div class="ng-icon-wrap" style="background:rgba(6,182,212,0.08); border-color:rgba(6,182,212,0.25);">
-                            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                        </div>
-                        <div class="ng-timer-label">Bypassing security layers</div>
-                        <div id="timerDisplay">30</div>
-                        <div id="fakeLogs" class="logs-container"></div>
-                    </div>
-
-                    <!-- INJECT SCREEN -->
-                    <div id="screenInject" class="screen">
-                        <div class="ng-icon-wrap" style="background:rgba(139,92,246,0.08); border-color:rgba(139,92,246,0.25);">
-                            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
-                        </div>
-                        <h3 style="color:#8b5cf6;">Payload Ready</h3>
-                        <p>Synchronization complete. Deploy payload to override target DOM.</p>
-                        <div id="injectError" class="error"></div>
-                        <button id="injectBtn" class="btn btn-purple" style="display:flex; align-items:center; justify-content:center; gap:7px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12H19M12 5l7 7-7 7"/></svg>Deploy Override</button>
-                    </div>
+                <div class="ng-header-right">
+                    <div class="ng-conn-dot" id="connDot"></div>
+                    <span class="ng-version" id="versionLabel" title="Triple-click for debug">v5.1</span>
+                    <button id="minimizeBtn" title="Minimize">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+                    </button>
                 </div>
             </div>
 
-            <button id="launcher">
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-            </button>
-        `;
-    _0xeced(_0x1egcdc);
-  }
-  function _0xeced(shadow) {
-    const _0x17dbeg = {
-      "\u006C\u0061\u0075\u006E\u0063\u0068\u0065\u0072": shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("rehcnual".split("").reverse().join("")),
-      "\u0070\u0061\u006E\u0065\u006C": shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("lenap".split("").reverse().join("")),
-      "\u0073\u0063\u0072\u0065\u0065\u006E\u0073": {
-        "\u006C\u006F\u0067\u0069\u006E": shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ]("nigoLneercs".split("").reverse().join("")),
-        ready: shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ]("ydaeRneercs".split("").reverse().join("")),
-        "\u0074\u0069\u006D\u0065\u0072": shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ]("\u0073\u0063\u0072\u0065\u0065\u006E\u0054\u0069\u006D\u0065\u0072"),
-        "\u0069\u006E\u006A\u0065\u0063\u0074": shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ](
-          "\u0073\u0063\u0072\u0065\u0065\u006E\u0049\u006E\u006A\u0065\u0063\u0074",
-        ),
-      },
-    };
-    let _0xf7a4fc = GM_getValue(
-      "\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064",
-    );
-    if (!_0xf7a4fc) {
-      _0xf7a4fc =
-        "\u006E\u0065\u0078\u0075\u0073\u002D" +
-        crypto[
-          "\u0072\u0061\u006E\u0064\u006F\u006D\u0055\u0055\u0049\u0044"
-        ]();
-      GM_setValue(
-        "\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064",
-        _0xf7a4fc,
-      );
-    }
-    function _0xac3ca(name) {
-      Object["\u0076\u0061\u006C\u0075\u0065\u0073"](
-        _0x17dbeg["\u0073\u0063\u0072\u0065\u0065\u006E\u0073"],
-      )["\u0066\u006F\u0072\u0045\u0061\u0063\u0068"]((s) =>
-        s["\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074"][
-          "\u0072\u0065\u006D\u006F\u0076\u0065"
-        ]("\u0061\u0063\u0074\u0069\u0076\u0065"),
-      );
-      _0x17dbeg["\u0073\u0063\u0072\u0065\u0065\u006E\u0073"][name][
-        "\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074"
-      ]["\u0061\u0064\u0064"]("evitca".split("").reverse().join(""));
-    }
-    _0x17dbeg["\u006C\u0061\u0075\u006E\u0063\u0068\u0065\u0072"][
-      "\u006F\u006E\u0063\u006C\u0069\u0063\u006B"
-    ] = () => {
-      _0x17dbeg["\u0070\u0061\u006E\u0065\u006C"][
-        "\u0073\u0074\u0079\u006C\u0065"
-      ]["\u0064\u0069\u0073\u0070\u006C\u0061\u0079"] =
-        _0x17dbeg["\u0070\u0061\u006E\u0065\u006C"][
-          "\u0073\u0074\u0079\u006C\u0065"
-        ]["\u0064\u0069\u0073\u0070\u006C\u0061\u0079"] ===
-        "xelf".split("").reverse().join("")
-          ? "\u006E\u006F\u006E\u0065"
-          : "xelf".split("").reverse().join("");
-      if (
-        _0x17dbeg["\u0070\u0061\u006E\u0065\u006C"][
-          "\u0073\u0074\u0079\u006C\u0065"
-        ]["\u0064\u0069\u0073\u0070\u006C\u0061\u0079"] ===
-        "\u0066\u006C\u0065\u0078"
-      )
-        _0xdc676g();
-    };
-    function _0xdc676g(_0x3c_0x147) {
-      const _0x91d6dd = GM_getValue(
-        "\u0065\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u004E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",
-      );
-      _0x3c_0x147 = "qekhfb".split("").reverse().join("");
-      if (_0x91d6dd) {
-        shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ](
-          "\u0070\u0061\u0073\u0074\u0065\u0045\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u0042\u0074\u006E",
-        )["\u0073\u0074\u0079\u006C\u0065"][
-          "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-        ] = "kcolb".split("").reverse().join("");
-        shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ](
-          "\u0070\u0061\u0073\u0074\u0065\u0045\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u0042\u0074\u006E",
-        )["\u006F\u006E\u0063\u006C\u0069\u0063\u006B"] = () => {
-          shadow[
-            "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-          ]("\u006B\u0065\u0079\u0049\u006E\u0070\u0075\u0074")[
-            "\u0076\u0061\u006C\u0075\u0065"
-          ] = _0x91d6dd;
-          GM_setValue("yeKsuxeNdetcartxe".split("").reverse().join(""), null);
-          shadow[
-            "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-          ](
-            "\u0070\u0061\u0073\u0074\u0065\u0045\u0078\u0074\u0072\u0061\u0063\u0074\u0065\u0064\u0042\u0074\u006E",
-          )["\u0073\u0074\u0079\u006C\u0065"][
-            "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-          ] = "\u006E\u006F\u006E\u0065";
-        };
-      }
-      var _0x2bf3d = (763296 ^ 763302) + (477747 ^ 477751);
-      const _0x736a = GM_getValue(
-        "\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",
-      );
-      _0x2bf3d = (966957 ^ 966958) + (845288 ^ 845294);
-      if (_0x736a) {
-        _0x38880b(_0x736a);
-      } else {
-        _0xac3ca("\u006C\u006F\u0067\u0069\u006E");
-      }
-    }
-    function _0x38880b(key) {
-      var _0xd_0x18c = (649827 ^ 649831) + (821258 ^ 821261);
-      const _0x1cd61c = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("ntBhtua".split("").reverse().join(""));
-      _0xd_0x18c = 344270 ^ 344265;
-      const _0x46661d = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072");
-      _0x1cd61c["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-        "...noisseS gniyfireV".split("").reverse().join("");
-      _0x1cd61c["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = !![];
-      _0x46661d["\u0073\u0074\u0079\u006C\u0065"][
-        "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-      ] = "enon".split("").reverse().join("");
-      console["\u006C\u006F\u0067"](
-        "\u005B\u004E\u0065\u0078\u0075\u0073\u0020\u0047\u0075\u0061\u0072\u0064\u005D\u0020\u0050\u0069\u006E\u0067\u0069\u006E\u0067\u0020\u0056\u0065\u0072\u0063\u0065\u006C\u0020\u0041\u0050\u0049\u0020\u0066\u006F\u0072\u0020\u0073\u0065\u0073\u0073\u0069\u006F\u006E\u0020\u0076\u0065\u0072\u0069\u0066\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002E\u002E\u002E",
-      );
-      GM_xmlhttpRequest({
-        "\u006D\u0065\u0074\u0068\u006F\u0064": "\u0050\u004F\u0053\u0054",
-        "\u0075\u0072\u006C": `${_0xc7a}/get-payload`,
-        "\u0068\u0065\u0061\u0064\u0065\u0072\u0073": {
-          "\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065":
-            "application/json",
-        },
-        "\u0064\u0061\u0074\u0061": JSON[
-          "\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079"
-        ]({ "\u006B\u0065\u0079": key, deviceId: _0xf7a4fc }),
-        timeout: 10000,
-        "\u006F\u006E\u006C\u006F\u0061\u0064": (res) => {
-          console["\u006C\u006F\u0067"](
-            "\u005B\u004E\u0065\u0078\u0075\u0073\u0020\u0047\u0075\u0061\u0072\u0064\u005D\u0020\u0041\u0050\u0049\u0020\u0052\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u003A",
-            res[
-              "\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074"
-            ],
-          );
-          try {
-            var _0x29e = (378082 ^ 378082) + (605948 ^ 605940);
-            const _0x1659c = JSON["\u0070\u0061\u0072\u0073\u0065"](
-              res[
-                "\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074"
-              ],
-            );
-            _0x29e = "bdliih".split("").reverse().join("");
-            if (_0x1659c["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]) {
-              _0xaf_0x1a8();
-            } else {
-              GM_setValue("yeKsuxen".split("").reverse().join(""), null);
-              _0x46661d[
-                "\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"
-              ] =
-                _0x1659c["\u006D\u0065\u0073\u0073\u0061\u0067\u0065"] ||
-                "\u0053\u0065\u0073\u0073\u0069\u006F\u006E\u0020\u0072\u0065\u0076\u006F\u006B\u0065\u0064\u002E";
-              _0x46661d["\u0073\u0074\u0079\u006C\u0065"][
-                "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-              ] = "kcolb".split("").reverse().join("");
-              _0xac3ca("\u006C\u006F\u0067\u0069\u006E");
-            }
-          } catch (e) {
-            _0x46661d[
-              "\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"
-            ] = ".)elosnoC kcehC( atad dilavni denruter lecreV"
-              .split("")
-              .reverse()
-              .join("");
-            _0x46661d["\u0073\u0074\u0079\u006C\u0065"][
-              "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-            ] = "kcolb".split("").reverse().join("");
-            _0xac3ca("\u006C\u006F\u0067\u0069\u006E");
-          }
-          _0x1cd61c["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            "\u0041\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0065\u0020\u0044\u0065\u0076\u0069\u0063\u0065";
-          _0x1cd61c["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = false;
-        },
-        onerror: (e) => {
-          console["\u0065\u0072\u0072\u006F\u0072"](
-            "\u005B\u004E\u0065\u0078\u0075\u0073\u0020\u0047\u0075\u0061\u0072\u0064\u005D\u0020\u004E\u0065\u0074\u0077\u006F\u0072\u006B\u0020\u0052\u0065\u0071\u0075\u0065\u0073\u0074\u0020\u0042\u006C\u006F\u0063\u006B\u0065\u0064\u003A",
-            e,
-          );
-          _0x46661d["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            ".stseuqer nigiro-ssorc yeknomrepmaT wollA !dekcolb krowteN"
-              .split("")
-              .reverse()
-              .join("");
-          _0x46661d["\u0073\u0074\u0079\u006C\u0065"][
-            "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-          ] = "kcolb".split("").reverse().join("");
-          _0x1cd61c["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            "eciveD etacitnehtuA".split("").reverse().join("");
-          _0x1cd61c["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = false;
-          _0xac3ca("nigol".split("").reverse().join(""));
-        },
-        ontimeout: () => {
-          console["\u0077\u0061\u0072\u006E"](
-            ".tuO demiT tseuqeR ]drauG suxeN[".split("").reverse().join(""),
-          );
-          _0x46661d["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            "\u0056\u0065\u0072\u0063\u0065\u006C\u0020\u0041\u0050\u0049\u0020\u0074\u0069\u006D\u0065\u006F\u0075\u0074\u002E\u0020\u0053\u0065\u0072\u0076\u0065\u0072\u0020\u006D\u0069\u0067\u0068\u0074\u0020\u0062\u0065\u0020\u0063\u006F\u006C\u0064\u002D\u0073\u0074\u0061\u0072\u0074\u0069\u006E\u0067\u002E";
-          _0x46661d["\u0073\u0074\u0079\u006C\u0065"][
-            "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-          ] = "\u0062\u006C\u006F\u0063\u006B";
-          _0x1cd61c["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            "eciveD etacitnehtuA".split("").reverse().join("");
-          _0x1cd61c["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = false;
-          _0xac3ca("\u006C\u006F\u0067\u0069\u006E");
-        },
-      });
-    }
-    shadow[
-      "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-    ]("ntBesneciLeerf".split("").reverse().join(""))[
-      "\u006F\u006E\u0063\u006C\u0069\u0063\u006B"
-    ] = () => {
-      window["\u006F\u0070\u0065\u006E"](
-        "/ppa.yfilten.suxendarcnia//:sptth".split("").reverse().join(""),
-        "knalb_".split("").reverse().join(""),
-      );
-    };
-    shadow[
-      "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-    ]("\u0061\u0075\u0074\u0068\u0042\u0074\u006E")[
-      "\u006F\u006E\u0063\u006C\u0069\u0063\u006B"
-    ] = () => {
-      var _0xg4caf = (806594 ^ 806596) + (524946 ^ 524945);
-      const _0x78c = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("tupnIyek".split("").reverse().join(""))[
-        "\u0076\u0061\u006C\u0075\u0065"
-      ]["\u0074\u0072\u0069\u006D"]();
-      _0xg4caf = 169348 ^ 169348;
-      if (!_0x78c) return;
-      var _0xe97a = (419319 ^ 419313) + (464346 ^ 464344);
-      const btn = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("\u0061\u0075\u0074\u0068\u0042\u0074\u006E");
-      _0xe97a = "kibeek".split("").reverse().join("");
-      var _0xeb2f = (167641 ^ 167641) + (256131 ^ 256128);
-      const err = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("rorrEnigol".split("").reverse().join(""));
-      _0xeb2f = "kqomdc".split("").reverse().join("");
-      btn["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-        "\u0041\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0069\u006E\u0067\u002E\u002E\u002E";
-      btn["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = !![];
-      GM_xmlhttpRequest({
-        method: "POST",
-        "\u0075\u0072\u006C": `${_0xc7a}/verify-license`,
-        headers: {
-          "\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065":
-            "\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E",
-        },
-        data: JSON["\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079"]({
-          key: _0x78c,
-          deviceId: _0xf7a4fc,
-        }),
-        onload: (res) => {
-          try {
-            const result = JSON["\u0070\u0061\u0072\u0073\u0065"](
-              res[
-                "\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074"
-              ],
-            );
-            if (result["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]) {
-              GM_setValue("yeKsuxen".split("").reverse().join(""), _0x78c);
-              _0xaf_0x1a8();
-            } else {
-              err["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-                result["\u006D\u0065\u0073\u0073\u0061\u0067\u0065"];
-              err["\u0073\u0074\u0079\u006C\u0065"][
-                "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-              ] = "kcolb".split("").reverse().join("");
-            }
-          } catch (e) {
-            err["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-              "\u0043\u006F\u006E\u006E\u0065\u0063\u0074\u0069\u006F\u006E\u0020\u0066\u0061\u0069\u006C\u0065\u0064\u002E";
-            err["\u0073\u0074\u0079\u006C\u0065"][
-              "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-            ] = "kcolb".split("").reverse().join("");
-          }
-          btn["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-            "\u0041\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0065\u0020\u0044\u0065\u0076\u0069\u0063\u0065";
-          btn["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = false;
-        },
-      });
-    };
-    function _0xaf_0x1a8() {
-      const _0x7b1fe = _0x7b67e["\u0073\u006F\u006D\u0065"]((host) =>
-        window["\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E"][
-          "\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065"
-        ]["\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073"](host),
-      );
-      if (_0x7b1fe) {
-        _0xac3ca("\u0072\u0065\u0061\u0064\u0079");
-      } else {
-        shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ]("rorrEnigol".split("").reverse().join(""))[
-          "\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"
-        ] =
-          "\u0054\u0061\u0072\u0067\u0065\u0074\u0020\u004D\u0069\u0073\u006D\u0061\u0074\u0063\u0068\u003A\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u006E\u0061\u0076\u0069\u0067\u0061\u0074\u0065\u0020\u0074\u006F\u0020\u0061\u006E\u0020\u0061\u0075\u0074\u0068\u006F\u0072\u0069\u007A\u0065\u0064\u0020\u0074\u0061\u0072\u0067\u0065\u0074\u002E";
-        shadow[
-          "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-        ]("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072")[
-          "\u0073\u0074\u0079\u006C\u0065"
-        ]["\u0064\u0069\u0073\u0070\u006C\u0061\u0079"] =
-          "\u0062\u006C\u006F\u0063\u006B";
-        _0xac3ca("nigol".split("").reverse().join(""));
-      }
-    }
-    shadow[
-      "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-    ](
-      "\u0073\u0074\u0061\u0072\u0074\u0054\u0069\u006D\u0065\u0072\u0042\u0074\u006E",
-    )["\u006F\u006E\u0063\u006C\u0069\u0063\u006B"] = () => {
-      _0xac3ca("\u0074\u0069\u006D\u0065\u0072");
-      let _0x5ag = 373188 ^ 373210;
-      var _0x7bc = (443471 ^ 443464) + (733892 ^ 733894);
-      const _0xaffc0e = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ](
-        "\u0074\u0069\u006D\u0065\u0072\u0044\u0069\u0073\u0070\u006C\u0061\u0079",
-      );
-      _0x7bc = (808612 ^ 808615) + (673562 ^ 673567);
-      var _0x_0xe11 = (367832 ^ 367824) + (521226 ^ 521225);
-      const _0x5eb75e = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("\u0066\u0061\u006B\u0065\u004C\u006F\u0067\u0073");
-      _0x_0xe11 = (465237 ^ 465238) + (231782 ^ 231790);
-      _0xaffc0e["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-        _0x5ag;
-      _0x5eb75e["\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C"] = "";
-      var _0x65c0a = (710219 ^ 710221) + (106459 ^ 106459);
-      const _0x7_0xaaf = [
-        "\u0049\u006E\u0074\u0065\u0072\u0063\u0065\u0070\u0074\u0069\u006E\u0067\u0020\u0056\u0065\u0072\u0063\u0065\u006C\u0020\u0065\u0064\u0067\u0065\u0020\u006E\u006F\u0064\u0065\u0020\u0072\u006F\u0075\u0074\u0069\u006E\u0067\u002E\u002E\u002E",
-        "\u0049\u006E\u006A\u0065\u0063\u0074\u0069\u006E\u0067\u0020\u0076\u0069\u0072\u0074\u0075\u0061\u006C\u0020\u0044\u004F\u004D\u0020\u006F\u0076\u0065\u0072\u006C\u0061\u0079\u0073\u002E\u002E\u002E",
-        "\u0044\u0069\u0073\u0061\u0062\u006C\u0069\u006E\u0067\u0020\u0043\u004F\u0052\u0053\u0020\u0070\u006F\u006C\u0069\u0063\u0079\u0020\u0065\u006E\u0066\u006F\u0072\u0063\u0065\u006D\u0065\u006E\u0074\u0073\u002E\u002E\u002E",
-        "\u0045\u0078\u0074\u0072\u0061\u0063\u0074\u0069\u006E\u0067\u0020\u004A\u0057\u0054\u0020\u0061\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u0020\u0074\u006F\u006B\u0065\u006E\u0073\u002E\u002E\u002E",
-        "\u0044\u0065\u0063\u006F\u0075\u0070\u006C\u0069\u006E\u0067\u0020\u0052\u0065\u0061\u0063\u0074\u0020\u0066\u0069\u0062\u0065\u0072\u0020\u0074\u0072\u0065\u0065\u0020\u006E\u006F\u0064\u0065\u0073\u002E\u002E\u002E",
-        "\u0053\u0069\u006D\u0075\u006C\u0061\u0074\u0069\u006E\u0067\u0020\u0068\u0065\u0061\u0064\u006C\u0065\u0073\u0073\u0020\u0063\u006C\u0069\u0065\u006E\u0074\u0020\u0065\u006E\u0076\u0069\u0072\u006F\u006E\u006D\u0065\u006E\u0074\u002E\u002E\u002E",
-        "...yciloP ytiruceS tnetnoC emitnur gnissapyB"
-          .split("")
-          .reverse()
-          .join(""),
-      ];
-      _0x65c0a = (118787 ^ 118790) + (181701 ^ 181698);
-      const _0x11ccd = setInterval(() => {
-        let _0xeaa;
-        const _0xbb_0x656 =
-          document[
-            "\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074"
-          ]("\u0064\u0069\u0076");
-        _0xeaa = (429569 ^ 429572) + (222200 ^ 222200);
-        _0xbb_0x656["\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065"] =
-          "enil-gol".split("").reverse().join("");
-        var _0xff76b = (422293 ^ 422301) + (143600 ^ 143609);
-        const _0x8_0xad3 = new Date()
-          [
-            "\u0074\u006F\u0049\u0053\u004F\u0053\u0074\u0072\u0069\u006E\u0067"
-          ]()
-          ["\u0073\u0070\u006C\u0069\u0074"]("\u0054")
-          [225766 ^ 225767][
-            "\u0073\u0075\u0062\u0073\u0074\u0072\u0069\u006E\u0067"
-          ](381696 ^ 381696, 550203 ^ 550192);
-        _0xff76b = "dmkcbp".split("").reverse().join("");
-        _0xbb_0x656["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-          `[${_0x8_0xad3}] > ${_0x7_0xaaf[Math["\u0066\u006C\u006F\u006F\u0072"](Math["\u0072\u0061\u006E\u0064\u006F\u006D"]() * _0x7_0xaaf["\u006C\u0065\u006E\u0067\u0074\u0068"])]}`;
-        _0x5eb75e[
-          "\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064"
-        ](_0xbb_0x656);
-        if (
-          _0x5eb75e[
-            "\u0063\u0068\u0069\u006C\u0064\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0043\u006F\u0075\u006E\u0074"
-          ] >
-          (637539 ^ 637542)
-        )
-          _0x5eb75e[
-            "\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064"
-          ](
-            _0x5eb75e[
-              "\u0066\u0069\u0072\u0073\u0074\u0043\u0068\u0069\u006C\u0064"
-            ],
-          );
-      }, 750554 ^ 749618);
-      const _0xdd63fe = setInterval(() => {
-        _0x5ag--;
-        _0xaffc0e["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-          _0x5ag;
-        if (_0x5ag <= (105431 ^ 105431)) {
-          clearInterval(_0xdd63fe);
-          clearInterval(_0x11ccd);
-          _0xac3ca("\u0069\u006E\u006A\u0065\u0063\u0074");
-        }
-      }, 426206 ^ 426806);
-    };
-    shadow[
-      "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-    ]("\u0069\u006E\u006A\u0065\u0063\u0074\u0042\u0074\u006E")[
-      "\u006F\u006E\u0063\u006C\u0069\u0063\u006B"
-    ] = () => {
-      const btn = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("ntBtcejni".split("").reverse().join(""));
-      const err = shadow[
-        "\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064"
-      ]("\u0069\u006E\u006A\u0065\u0063\u0074\u0045\u0072\u0072\u006F\u0072");
-      btn["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-        "\u0044\u0065\u0070\u006C\u006F\u0079\u0069\u006E\u0067\u0020\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u002E\u002E\u002E";
-      btn["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = !![];
-      GM_xmlhttpRequest({
-        method: "\u0050\u004F\u0053\u0054",
-        "\u0075\u0072\u006C": `${_0xc7a}/get-payload`,
-        headers: { "Content-Type": "application/json" },
-        data: JSON["\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079"]({
-          "\u006B\u0065\u0079": GM_getValue(
-            "\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",
-          ),
-          "\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064": _0xf7a4fc,
-        }),
-        onload: (res) => {
-          var _0x656beb = (907545 ^ 907548) + (327921 ^ 327929);
-          const result = JSON["\u0070\u0061\u0072\u0073\u0065"](
-            res[
-              "\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074"
-            ],
-          );
-          _0x656beb = (371849 ^ 371855) + (424673 ^ 424676);
-          if (
-            result["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"] &&
-            result["\u0073\u0065\u0063\u0075\u0072\u0065\u0055\u0072\u006C"]
-          ) {
-            _0xfe55ba(
-              result["\u0073\u0065\u0063\u0075\u0072\u0065\u0055\u0072\u006C"],
-            );
-          } else {
-            err["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-              "\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u0020\u0065\u0078\u0074\u0072\u0061\u0063\u0074\u0069\u006F\u006E\u0020\u0066\u0061\u0069\u006C\u0065\u0064\u002E\u0020\u0041\u0063\u0063\u0065\u0073\u0073\u0020\u0044\u0065\u006E\u0069\u0065\u0064\u002E";
-            err["\u0073\u0074\u0079\u006C\u0065"][
-              "\u0064\u0069\u0073\u0070\u006C\u0061\u0079"
-            ] = "kcolb".split("").reverse().join("");
-            btn["\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074"] =
-              "\u0044\u0065\u0070\u006C\u006F\u0079\u0020\u004F\u0076\u0065\u0072\u0072\u0069\u0064\u0065";
-            btn["\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064"] = false;
-          }
-        },
-      });
-    };
-    function _0xfe55ba(secureUrl) {
-      const _0xd77d =
-        secureUrl +
-        (secureUrl["\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073"]("\u003F")
-          ? "\u0026"
-          : "\u003F") +
-        "=bc_".split("").reverse().join("") +
-        Date["\u006E\u006F\u0077"]();
-      document["\u0062\u006F\u0064\u0079"][
-        "\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C"
-      ] = `
-                <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;background:#020617;color:#f8fafc;font-family:'Inter',sans-serif;">
-                    <div style="font-size:20px; font-weight:700; margin-bottom:8px;">Override Executed</div>
-                    <div style="font-size:14px; color:#94a3b8;">Redirecting packet stream...</div>
-                </div>`;
-      setTimeout(() => {
-        window["\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E"][
-          "\u0072\u0065\u0070\u006C\u0061\u0063\u0065"
-        ](_0xd77d);
-      }, 427685 ^ 427341);
-    }
-  }
-})();
+            <div class="ng-body" id="ngBody">
+
+                <!-- Re-auth banner -->
+                <div id="reAuthBanner">
+                    <div class="ng-banner-row">
+                        <span class="ng-banner-text">Session expired. Re-authenticate to continue.</span>
+                        <button id="reAuthNowBtn">Re-auth</button>
+                    </div>
+                </div>
+
+                <!-- LOGIN SCREEN -->
+                <div id="screenLogin" class="screen active">
+                    <div class="ng-icon-wrap">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+                    </div>
+                    <h3>Access Locked</h3>
+                    <p>Enter your private Nexus Key to authenticate your device.</p>
+                    <div class="ng-input-wrap">
+                        <svg class="ng-input-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"/></svg>
+                        <input type="password" id="keyInput" placeholder="NEXUS-XXXX-XXXX-XXXX" autocomplete="off"/>
+                        <button class="ng-eye-btn" id="keyEyeBtn">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                        </button>
+                    </div>
+                    <label class="ng-remember-row">
+                        <input type="checkbox" id="rememberMe"/>
+                        <span>Stay signed in on this device</span>
+                    </label>
+                    <div id="loginError" class="error"></div>
+                    <button id="authBtn" class="btn btn-cyan">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
+                        Authenticate Device
+                    </button>
+                    <div class="ng-update-row">
+                        <span class="ng-update-badge" id="updateBadge">—</span>
+                        <button id="checkUpdateBtn">Check for Update</button>
+                    </div>
+                    <div class="ng-divider"><span>No key yet?</span></div>
+                    <button id="freeLicenseBtn" class="btn btn-free">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+                        Get Your Free License
+                    </button>
+                    <div id="debugPanel">
+                        <span class="dbg-title">DEBUG MODE</span>
+                        <div id="debugContent"></div>
+                    </div>
+                </div>
+
+                <!-- READY SCREEN -->
+                <div id="screenReady" class="screen">
+                    <div class="ng-icon-wrap" style="background:rgba(16,185,129,0.08);border-color:rgba(16,185,129,0.25);">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                    </div>
+                    <h3 style="color:#10b981;"><span class="ng-status-dot"></span>Target Locked</h3>
+                    <div class="ng-last-used" id="lastUsedLabel"></div>
+                    <p>Secure bridge established. Ready to initiate synchronization protocol.</p>
+                    <div class="ng-hist-wrap" id="histWrap">
+                        <div class="ng-hist-header">
+                            <span class="ng-hist-title">Recent Extractions</span>
+                            <button class="ng-hist-clear" id="clearHistBtn" title="Clear history">
+                                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
+                            </button>
+                        </div>
+                        <div id="histList"></div>
+                    </div>
+                    <button id="startTimerBtn" class="btn btn-cyan">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                        Initialize Sync
+                    </button>
+                    <div class="ng-signout-row">
+                        <button id="signOutBtn">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+                            Sign Out
+                        </button>
+                    </div>
+                </div>
+
+                <!-- TIMER SCREEN -->
+                <div id="screenTimer" class="screen">
+                    <div class="ng-icon-wrap" style="background:rgba(6,182,212,0.08);border-color:rgba(6,182,212,0.25);">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    </div>
+                    <div class="ng-timer-label">Bypassing security layers</div>
+                    <div id="timerDisplay">30</div>
+                    <div id="fakeLogs" class="logs-container"></div>
+                </div>
+
+                <!-- INJECT SCREEN -->
+                <div id="screenInject" class="screen">
+                    <div class="ng-icon-wrap" style="background:rgba(139,92,246,0.08);border-color:rgba(139,92,246,0.25);">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                    </div>
+                    <h3 style="color:#8b5cf6;">Payload Ready</h3>
+                    <p>Synchronization complete. Deploy payload to override target DOM.</p>
+                    <div id="injectError" class="error"></div>
+                    <button id="injectBtn" class="btn btn-purple">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12H19M12 5l7 7-7 7"/></svg>
+                        Deploy Override
+                    </button>
+                    <div id="redirectCountdown" style="display:none;"></div>
+                </div>
+
+            </div>
+        </div>
+
+        <button id="launcher">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <span id="fabBadge">v5.1</span>
+            <div id="fabTooltip"><kbd>Alt+Shift+N</kbd> to toggle</div>
+        </button>
+        `;_0xd9a8c(_0xb9gcb,_0x2a197b);}function _0xd9a8c(shadow,host){const _0xd8927g=["\u004C\u006F\u0067\u0069\u006E","\u0052\u0065\u0061\u0064\u0079","remiT".split("").reverse().join(""),"\u0049\u006E\u006A\u0065\u0063\u0074"];function _0x5b1gc(name){_0xd8927g['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](n=>{let _0xf3f09f;const _0x27fc=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0063\u0072\u0065\u0065\u006E"+n);_0xf3f09f=(307943^307936)+(648297^648300);_0x27fc['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0061\u0063\u0074\u0069\u0076\u0065");});shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0063\u0072\u0065\u0065\u006E"+name)['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("evitca".split("").reverse().join(""));}function _0x2e71e(){var _0x7aa4ee=(139733^139735)+(557225^557217);const _0x7c959a=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u006F\u006E\u006E\u0044\u006F\u0074");_0x7aa4ee=(491276^491273)+(174696^174700);GM_xmlhttpRequest({"method":"\u0047\u0045\u0054",'\u0075\u0072\u006C':`${_0x4d_0xa3e}/ping`,'\u0074\u0069\u006D\u0065\u006F\u0075\u0074':5000,'\u006F\u006E\u006C\u006F\u0061\u0064':()=>{_0x7c959a['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="\u006E\u0067\u002D\u0063\u006F\u006E\u006E\u002D\u0064\u006F\u0074\u0020\u006F\u006E\u006C\u0069\u006E\u0065";},"onerror":()=>{_0x7c959a['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="enilffo tod-nnoc-gn".split("").reverse().join("");},'\u006F\u006E\u0074\u0069\u006D\u0065\u006F\u0075\u0074':()=>{_0x7c959a['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="enilffo tod-nnoc-gn".split("").reverse().join("");}});}_0x2e71e();setInterval(_0x2e71e,336458^350074);let _0x4677c=false;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006D\u0069\u006E\u0069\u006D\u0069\u007A\u0065\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{_0x4677c=!_0x4677c;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ydoBgn".split("").reverse().join(""))['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']=_0x4677c?"enon".split("").reverse().join(""):"";const _0x477d=_0x4677c?">/\"9 81 51 21 9 6\"=stniop enilylop<".split("").reverse().join(""):"\u003C\u0070\u006F\u006C\u0079\u006C\u0069\u006E\u0065\u0020\u0070\u006F\u0069\u006E\u0074\u0073\u003D\u0022\u0031\u0038\u0020\u0031\u0035\u0020\u0031\u0032\u0020\u0039\u0020\u0036\u0020\u0031\u0035\u0022\u002F\u003E";shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006D\u0069\u006E\u0069\u006D\u0069\u007A\u0065\u0042\u0074\u006E")['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">${_0x477d}</svg>`;};let _0xe882cd=false,_0xaaa95c=242745^242745,_0x91b=374088^374088,_0x1f39a=false;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u0061\u0075\u006E\u0063\u0068\u0065\u0072")['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u006D\u006F\u0075\u0073\u0065\u0064\u006F\u0077\u006E",e=>{_0xe882cd=!![];_0x1f39a=false;let _0x3669b;const r=host['\u0067\u0065\u0074\u0042\u006F\u0075\u006E\u0064\u0069\u006E\u0067\u0043\u006C\u0069\u0065\u006E\u0074\u0052\u0065\u0063\u0074']();_0x3669b='\u0065\u0070\u0066\u006E\u0069\u0063';_0xaaa95c=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0058']-r['\u0072\u0069\u0067\u0068\u0074'];_0x91b=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0059']-r['\u0062\u006F\u0074\u0074\u006F\u006D'];e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();});document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("evomesuom".split("").reverse().join(""),e=>{if(!_0xe882cd)return;_0x1f39a=!![];const _0x5a6ga=Math['\u006D\u0061\u0078'](691736^691730,window['\u0069\u006E\u006E\u0065\u0072\u0057\u0069\u0064\u0074\u0068']-(e['\u0063\u006C\u0069\u0065\u006E\u0074\u0058']-_0xaaa95c));const _0xe10dd=Math['\u006D\u0061\u0078'](582103^582109,window['\u0069\u006E\u006E\u0065\u0072\u0048\u0065\u0069\u0067\u0068\u0074']-(e['\u0063\u006C\u0069\u0065\u006E\u0074\u0059']-_0x91b));host['\u0073\u0074\u0079\u006C\u0065']['\u0072\u0069\u0067\u0068\u0074']=_0x5a6ga+"\u0070\u0078";host['\u0073\u0074\u0079\u006C\u0065']['\u0062\u006F\u0074\u0074\u006F\u006D']=_0xe10dd+"\u0070\u0078";});document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("puesuom".split("").reverse().join(""),()=>{if(_0xe882cd&&_0x1f39a){_0xeb30e(parseInt(host['\u0073\u0074\u0079\u006C\u0065']['\u0072\u0069\u0067\u0068\u0074']),parseInt(host['\u0073\u0074\u0079\u006C\u0065']['\u0062\u006F\u0074\u0074\u006F\u006D']));}_0xe882cd=false;});shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rehcnual".split("").reverse().join(""))['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{if(_0x1f39a){_0x1f39a=false;return;}let _0x8c82ff;const _0x74b=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("lenap".split("").reverse().join(""));_0x8c82ff=(237842^237847)+(810878^810875);const _0x4d348b=_0x74b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']!=="\u0066\u006C\u0065\u0078";_0x74b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']=_0x4d348b?"\u0066\u006C\u0065\u0078":"\u006E\u006F\u006E\u0065";if(_0x4d348b)_0x570fb();};shadow['\u005F\u0062\u006F\u006F\u0074']=_0x570fb;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0076\u0065\u0072\u0073\u0069\u006F\u006E\u004C\u0061\u0062\u0065\u006C")['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0063\u006C\u0069\u0063\u006B",()=>{_0xgef29d++;clearTimeout(_0x2bg4c);_0x2bg4c=setTimeout(()=>{_0xgef29d=954204^954204;},370474^369838);if(_0xgef29d>=(564457^564458)){_0xgef29d=265549^265549;var _0xb7845d=(712728^712730)+(744614^744614);const _0xca708e=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0065\u0062\u0075\u0067\u0050\u0061\u006E\u0065\u006C");_0xb7845d='\u0063\u006A\u0070\u0065\u0064\u006A';const _0xf2_0xbc0=_0xca708e['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']!=="\u0062\u006C\u006F\u0063\u006B";_0xca708e['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']=_0xf2_0xbc0?"\u0062\u006C\u006F\u0063\u006B":"\u006E\u006F\u006E\u0065";if(_0xf2_0xbc0)_0xdaad9e();}});function _0xdaad9e(_0xcfbage){var _0xd24g7c=(959541^959548)+(624295^624292);const _0x74524c=GM_getValue("yeKsuxen".split("").reverse().join(""))||"\u006E\u0075\u006C\u006C";_0xd24g7c=(625045^625042)+(495284^495284);const _0x2gf9ff=[["\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064",_0x3f3cd,!![]],["\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",_0x74524c['\u006C\u0065\u006E\u0067\u0074\u0068']>(404242^404230)?_0x74524c['\u0073\u006C\u0069\u0063\u0065'](194979^194979,604024^604008)+"\u2026":_0x74524c,false],["\u0072\u0065\u006D\u0065\u006D\u0062\u0065\u0072\u004D\u0065",GM_getValue("\u0072\u0065\u006D\u0065\u006D\u0062\u0065\u0072\u004D\u0065")?"\u0074\u0072\u0075\u0065":"\u0066\u0061\u006C\u0073\u0065",false],["\u006C\u0061\u0073\u0074\u0055\u0073\u0065\u0064",GM_getValue("desUtsal".split("").reverse().join(""))?new Date(GM_getValue("\u006C\u0061\u0073\u0074\u0055\u0073\u0065\u0064"))['\u0074\u006F\u0049\u0053\u004F\u0053\u0074\u0072\u0069\u006E\u0067']():"\u006E\u0075\u006C\u006C",false],["\u0068\u0069\u0073\u0074\u0043\u006F\u0075\u006E\u0074",_0x26c()['\u006C\u0065\u006E\u0067\u0074\u0068'],false],["\u0068\u006F\u0073\u0074",window['\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E']['\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065'],false],["\u0061\u0070\u0069",_0x4d_0xa3e,false]];_0xcfbage="cnifmo".split("").reverse().join("");shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0065\u0062\u0075\u0067\u0043\u006F\u006E\u0074\u0065\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=_0x2gf9ff['\u006D\u0061\u0070'](([k,v,copyable])=>`<div class="dbg-row"><span class="dbg-k">${k}:</span><span class="dbg-v">${v}</span>${copyable?`<button class="dbg-copy" data-val="${_0x3f3cd}" title="Copy"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg></button>`:""}</div>`)['\u006A\u006F\u0069\u006E']("");shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("tnetnoCgubed".split("").reverse().join(""))['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0064\u0062\u0067\u002D\u0063\u006F\u0070\u0079")['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](btn=>{btn['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{navigator['\u0063\u006C\u0069\u0070\u0062\u006F\u0061\u0072\u0064']['\u0077\u0072\u0069\u0074\u0065\u0054\u0065\u0078\u0074'](btn['\u0064\u0061\u0074\u0061\u0073\u0065\u0074']['\u0076\u0061\u006C'])['\u0063\u0061\u0074\u0063\u0068'](()=>{});_0x7f3c("\u0044\u0065\u0076\u0069\u0063\u0065\u0020\u0049\u0044\u0020\u0063\u006F\u0070\u0069\u0065\u0064","sseccus".split("").reverse().join(""));};});}shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBwoNhtuAer".split("").reverse().join(""))['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0041\u0075\u0074\u0068\u0042\u0061\u006E\u006E\u0065\u0072")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="enon".split("").reverse().join("");GM_setValue("yeKsuxen".split("").reverse().join(""),null);_0x5b1gc("nigoL".split("").reverse().join(""));_0x7f3c("\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0079\u006F\u0075\u0072\u0020\u006B\u0065\u0079","nraw".split("").reverse().join(""));};let _0xf37bg=false;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006B\u0065\u0079\u0045\u0079\u0065\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{_0xf37bg=!_0xf37bg;shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006B\u0065\u0079\u0049\u006E\u0070\u0075\u0074")['\u0074\u0079\u0070\u0065']=_0xf37bg?"txet".split("").reverse().join(""):"drowssap".split("").reverse().join("");};const _0x88659e=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u006D\u0065\u006D\u0062\u0065\u0072\u004D\u0065");_0x88659e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']=!!GM_getValue("eMrebmemer".split("").reverse().join(""));_0x88659e['\u006F\u006E\u0063\u0068\u0061\u006E\u0067\u0065']=()=>GM_setValue("eMrebmemer".split("").reverse().join(""),_0x88659e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']);shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0069\u0067\u006E\u004F\u0075\u0074\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{GM_setValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",null);GM_setValue("eMrebmemer".split("").reverse().join(""),false);_0x88659e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']=false;_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");_0x7f3c("\u0053\u0069\u0067\u006E\u0065\u0064\u0020\u006F\u0075\u0074\u0020\u0073\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006C\u006C\u0079","\u0069\u006E\u0066\u006F");};shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u0068\u0065\u0063\u006B\u0055\u0070\u0064\u0061\u0074\u0065\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{var _0xb1ea=(434299^434299)+(419980^419981);const _0x24af=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0075\u0070\u0064\u0061\u0074\u0065\u0042\u0061\u0064\u0067\u0065");_0xb1ea=(613472^613480)+(415279^415274);_0x24af['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u2026gnikcehC".split("").reverse().join("");_0x24af['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="\u006E\u0067\u002D\u0075\u0070\u0064\u0061\u0074\u0065\u002D\u0062\u0061\u0064\u0067\u0065";GM_xmlhttpRequest({"method":"\u0047\u0045\u0054",'\u0075\u0072\u006C':_0x02030c,"timeout":8000,'\u006F\u006E\u006C\u006F\u0061\u0064':res=>{const m=res['\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074']['\u006D\u0061\u0074\u0063\u0068'](new RegExp('\u0040\u0076\u0065\u0072\u0073\u0069\u006F\u006E\u005C\u0073\u002B\u0028\u005B\u005C\u0064\u002E\u005D\u002B\u0029',""));if(m&&m[572031^572030]!==_0x2bce9e){_0x24af['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=`v${m[211797^211796]} available`;_0x24af['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="wen egdab-etadpu-gn".split("").reverse().join("");_0x7f3c(`Update v${m[304207^304206]} available!`,"\u0069\u006E\u0066\u006F");}else{_0x24af['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="etad ot pU".split("").reverse().join("");_0x7f3c("etad ot pu si tpircS".split("").reverse().join(""),"sseccus".split("").reverse().join(""));}},'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':()=>{_0x24af['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="deliaf kcehC".split("").reverse().join("");_0x7f3c("\u0055\u0070\u0064\u0061\u0074\u0065\u0020\u0063\u0068\u0065\u0063\u006B\u0020\u0066\u0061\u0069\u006C\u0065\u0064","rorre".split("").reverse().join(""));},'\u006F\u006E\u0074\u0069\u006D\u0065\u006F\u0075\u0074':()=>{_0x24af['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u0054\u0069\u006D\u0065\u0064\u0020\u006F\u0075\u0074";_0x7f3c("\u0055\u0070\u0064\u0061\u0074\u0065\u0020\u0063\u0068\u0065\u0063\u006B\u0020\u0074\u0069\u006D\u0065\u0064\u0020\u006F\u0075\u0074","\u0077\u0061\u0072\u006E");}});};shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBesneciLeerf".split("").reverse().join(""))['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{window['\u006F\u0070\u0065\u006E']("/ppa.yfilten.suxendarcnia//:sptth".split("").reverse().join(""),"knalb_".split("").reverse().join(""));};shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u006C\u0065\u0061\u0072\u0048\u0069\u0073\u0074\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{GM_setValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079\u0048\u0069\u0073\u0074\u006F\u0072\u0079","\u005B\u005D");_0x38b75e();_0x7f3c("\u0048\u0069\u0073\u0074\u006F\u0072\u0079\u0020\u0063\u006C\u0065\u0061\u0072\u0065\u0064","\u0069\u006E\u0066\u006F");};function _0x570fb(){_0xdaad9e();const _0xabafaa=GM_getValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079");var _0xbe733g=(697945^697945)+(463258^463261);const _0x17f=GM_getValue("\u0072\u0065\u006D\u0065\u006D\u0062\u0065\u0072\u004D\u0065");_0xbe733g=(702169^702174)+(600401^600401);if(!navigator['\u006F\u006E\u004C\u0069\u006E\u0065']){shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEnigol".split("").reverse().join(""))['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".detceted noitcennoc tenretni oN".split("").reverse().join("");shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");_0x7f3c("\u004E\u006F\u0020\u0069\u006E\u0074\u0065\u0072\u006E\u0065\u0074\u0020\u0063\u006F\u006E\u006E\u0065\u0063\u0074\u0069\u006F\u006E","rorre".split("").reverse().join(""));return;}if(_0xabafaa&&_0x17f){_0xc0f(_0xabafaa);}else if(_0xabafaa&&!_0x17f){shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rennaBhtuAer".split("").reverse().join(""))['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");}else{_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");}}function _0xc0f(key){const _0x94dad=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBhtua".split("").reverse().join(""));const _0x11dcg=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072");_0x94dad['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="animation:ng-spin 1s linear infinite"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> Verifying…`;_0x94dad['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=!![];_0x11dcg['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u006E\u006F\u006E\u0065";GM_xmlhttpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"\u0050\u004F\u0053\u0054","url":`${_0x4d_0xa3e}/get-payload`,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':{"Content-Type":"application/json"},"data":JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({"key":key,'\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064':_0x3f3cd}),'\u0074\u0069\u006D\u0065\u006F\u0075\u0074':10000,"onload":res=>{try{const r=JSON['\u0070\u0061\u0072\u0073\u0065'](res['\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074']);if(r['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']){_0x9b53dc();}else{GM_setValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",null);_0x11dcg['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=r['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||"\u0053\u0065\u0073\u0073\u0069\u006F\u006E\u0020\u0072\u0065\u0076\u006F\u006B\u0065\u0064\u002E";_0x11dcg['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");_0x5b1gc("nigoL".split("").reverse().join(""));_0x7f3c("dekover noisseS".split("").reverse().join(""),"\u0065\u0072\u0072\u006F\u0072");}}catch(e){_0x11dcg['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".esnopser revres dilavnI".split("").reverse().join("");_0x11dcg['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");}_0x6cac();},'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':()=>{_0x11dcg['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".stseuqer nigiro-ssorc wollA !dekcolb krowteN".split("").reverse().join("");_0x11dcg['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");_0x5b1gc("nigoL".split("").reverse().join(""));_0x7f3c("\u004E\u0065\u0074\u0077\u006F\u0072\u006B\u0020\u0065\u0072\u0072\u006F\u0072","\u0065\u0072\u0072\u006F\u0072");_0x6cac();},"ontimeout":()=>{_0x11dcg['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u0041\u0050\u0049\u0020\u0074\u0069\u006D\u0065\u006F\u0075\u0074\u002E\u0020\u0053\u0065\u0072\u0076\u0065\u0072\u0020\u006D\u0061\u0079\u0020\u0062\u0065\u0020\u0063\u006F\u006C\u0064\u002D\u0073\u0074\u0061\u0072\u0074\u0069\u006E\u0067\u002E";_0x11dcg['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");_0x5b1gc("nigoL".split("").reverse().join(""));_0x7f3c("tuo demit tseuqeR".split("").reverse().join(""),"nraw".split("").reverse().join(""));_0x6cac();}});}function _0x6cac(){var _0xe6a81d=(635661^635659)+(760253^760249);const _0x403f=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0075\u0074\u0068\u0042\u0074\u006E");_0xe6a81d=715181^715176;_0x403f['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg> Authenticate Device`;_0x403f['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=false;}shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0075\u0074\u0068\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{const key=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("tupnIyek".split("").reverse().join(""))['\u0076\u0061\u006C\u0075\u0065']['\u0074\u0072\u0069\u006D']();if(!key)return;if(!navigator['\u006F\u006E\u004C\u0069\u006E\u0065']){shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".noitcennoc tenretni oN".split("").reverse().join("");shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x7f3c("\u004E\u006F\u0020\u0069\u006E\u0074\u0065\u0072\u006E\u0065\u0074\u0020\u0063\u006F\u006E\u006E\u0065\u0063\u0074\u0069\u006F\u006E","rorre".split("").reverse().join(""));return;}if(key['\u006C\u0065\u006E\u0067\u0074\u0068']<(949770^949762)){shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEnigol".split("").reverse().join(""))['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u004B\u0065\u0079\u0020\u0074\u006F\u006F\u0020\u0073\u0068\u006F\u0072\u0074\u002E\u0020\u0043\u0068\u0065\u0063\u006B\u0020\u0079\u006F\u0075\u0072\u0020\u006B\u0065\u0079\u0020\u0061\u006E\u0064\u0020\u0074\u0072\u0079\u0020\u0061\u0067\u0061\u0069\u006E\u002E";shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEnigol".split("").reverse().join(""))['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";return;}var _0xg79c=(551466^551471)+(275073^275072);const btn=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0075\u0074\u0068\u0042\u0074\u006E");_0xg79c=944413^944414;const err=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEnigol".split("").reverse().join(""));btn['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="animation:ng-spin 1s linear infinite"><circle cx="12" cy="12" r="10"/></svg> Authenticating…`;btn['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=!![];GM_xmlhttpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"\u0050\u004F\u0053\u0054",'\u0075\u0072\u006C':`${_0x4d_0xa3e}/verify-license`,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':{"\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E"},'\u0064\u0061\u0074\u0061':JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({'\u006B\u0065\u0079':key,'\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064':_0x3f3cd}),"onload":res=>{try{var _0xe42dc=(423708^423700)+(931899^931901);const r=JSON['\u0070\u0061\u0072\u0073\u0065'](res['\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074']);_0xe42dc=(321067^321068)+(129268^129267);if(r['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']){GM_setValue("\u006E\u0065\u0078\u0075\u0073\u004B\u0065\u0079",key);GM_setValue("desUtsal".split("").reverse().join(""),Date['\u006E\u006F\u0077']());_0x35f85b("sseccus".split("").reverse().join(""));_0x7f3c("!yllufsseccus detacitnehtuA".split("").reverse().join(""),"sseccus".split("").reverse().join(""));_0x9b53dc();}else{err['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=r['\u006D\u0065\u0073\u0073\u0061\u0067\u0065'];err['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x35f85b("\u0065\u0072\u0072\u006F\u0072");_0x7f3c(r['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||"deliaf noitacitnehtuA".split("").reverse().join(""),"\u0065\u0072\u0072\u006F\u0072");}}catch(e){err['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u0043\u006F\u006E\u006E\u0065\u0063\u0074\u0069\u006F\u006E\u0020\u0066\u0061\u0069\u006C\u0065\u0064\u002E";err['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");}_0x6cac();},'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':()=>{err['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u004E\u0065\u0074\u0077\u006F\u0072\u006B\u0020\u0065\u0072\u0072\u006F\u0072\u002E";err['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0x6cac();}});};function _0x9b53dc(){const _0xba3c=_0x1g_0xe54['\u0073\u006F\u006D\u0065'](h=>window['\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E']['\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073'](h));if(_0xba3c){_0x38b75e();_0x5b1gc("ydaeR".split("").reverse().join(""));_0x7f3c("\u0054\u0061\u0072\u0067\u0065\u0074\u0020\u0073\u0069\u0074\u0065\u0020\u0064\u0065\u0074\u0065\u0063\u0074\u0065\u0064","\u0073\u0075\u0063\u0063\u0065\u0073\u0073");}else{shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u006F\u0067\u0069\u006E\u0045\u0072\u0072\u006F\u0072")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".etis tegrat dezirohtua na ot etagivaN :hctamsiM tegraT".split("").reverse().join("");shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEnigol".split("").reverse().join(""))['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");_0x5b1gc("\u004C\u006F\u0067\u0069\u006E");_0x7f3c("etis tegrat a no toN".split("").reverse().join(""),"\u0077\u0061\u0072\u006E");}}function _0x38b75e(){const _0xgb7e=GM_getValue("\u006C\u0061\u0073\u0074\u0055\u0073\u0065\u0064");var _0xa942d=(521213^521211)+(326503^326496);const _0x458d=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("lebaLdesUtsal".split("").reverse().join(""));_0xa942d='\u0066\u0066\u006F\u006B\u0071\u006C';_0x458d['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=_0xgb7e?"\u004C\u0061\u0073\u0074\u0020\u0061\u0063\u0074\u0069\u0076\u0065\u003A\u0020"+_0x5f_0xa2a(_0xgb7e):"";GM_setValue("\u006C\u0061\u0073\u0074\u0055\u0073\u0065\u0064",Date['\u006E\u006F\u0077']());const _0x8798ed=_0x26c();var _0xb513b=(946645^946646)+(757963^757967);const _0x6g7f5d=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0068\u0069\u0073\u0074\u004C\u0069\u0073\u0074");_0xb513b=(345917^345908)+(470798^470790);_0x6g7f5d['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']="";if(_0x8798ed['\u006C\u0065\u006E\u0067\u0074\u0068']===(131679^131679)){_0x6g7f5d['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<div class="ng-hist-empty">No extractions yet</div>`;}else{_0x8798ed['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](({"key":key,'\u0074\u0073':ts})=>{const _0x11fadd=key['\u006C\u0065\u006E\u0067\u0074\u0068']>(854013^853995)?key['\u0073\u006C\u0069\u0063\u0065'](800744^800744,326030^326020)+"\u2026"+key['\u0073\u006C\u0069\u0063\u0065'](-(393033^393039)):key;let _0x79da;const _0xa619g=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x79da='\u0062\u0066\u006B\u006C\u0064\u006B';_0xa619g['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="\u006E\u0067\u002D\u0068\u0069\u0073\u0074\u002D\u0069\u0074\u0065\u006D";_0xa619g['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`
+                        <span class="ng-hist-key">${_0x11fadd}</span>
+                        <span class="ng-hist-age">${_0x5f_0xa2a(ts)}</span>
+                        <button class="ng-hist-copy" title="Copy">
+                            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                        </button>`;_0xa619g['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("ypoc-tsih-gn.".split("").reverse().join(""))['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{navigator['\u0063\u006C\u0069\u0070\u0062\u006F\u0061\u0072\u0064']['\u0077\u0072\u0069\u0074\u0065\u0054\u0065\u0078\u0074'](key)['\u0063\u0061\u0074\u0063\u0068'](()=>{});_0x7f3c("draobpilc ot deipoc yeK".split("").reverse().join(""),"sseccus".split("").reverse().join(""));};_0x6g7f5d['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xa619g);});}}shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBremiTtrats".split("").reverse().join(""))['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{_0x5b1gc("\u0054\u0069\u006D\u0065\u0072");var _0x64c5fd=(215275^215274)+(148337^148338);let _0x0c16c=721805^721811;_0x64c5fd=(753595^753598)+(849083^849075);var _0x5ffc=(994378^994379)+(992982^992976);const _0x84f42c=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("yalpsiDremit".split("").reverse().join(""));_0x5ffc=899240^899247;let _0x7996ce;const _0xf0dc8d=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0066\u0061\u006B\u0065\u004C\u006F\u0067\u0073");_0x7996ce="hmcfhc".split("").reverse().join("");_0x84f42c['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=_0x0c16c;_0xf0dc8d['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']="";const _0x4a68f=["...gnituor edon egde lecreV gnitpecretnI".split("").reverse().join(""),"\u0049\u006E\u006A\u0065\u0063\u0074\u0069\u006E\u0067\u0020\u0076\u0069\u0072\u0074\u0075\u0061\u006C\u0020\u0044\u004F\u004D\u0020\u006F\u0076\u0065\u0072\u006C\u0061\u0079\u0073\u002E\u002E\u002E","...stnemecrofne ycilop SROC gnilbasiD".split("").reverse().join(""),"\u0045\u0078\u0074\u0072\u0061\u0063\u0074\u0069\u006E\u0067\u0020\u004A\u0057\u0054\u0020\u0061\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u0020\u0074\u006F\u006B\u0065\u006E\u0073\u002E\u002E\u002E","...sedon eert rebif tcaeR gnilpuoceD".split("").reverse().join(""),"\u0053\u0069\u006D\u0075\u006C\u0061\u0074\u0069\u006E\u0067\u0020\u0068\u0065\u0061\u0064\u006C\u0065\u0073\u0073\u0020\u0063\u006C\u0069\u0065\u006E\u0074\u0020\u0065\u006E\u0076\u0069\u0072\u006F\u006E\u006D\u0065\u006E\u0074\u002E\u002E\u002E","\u0042\u0079\u0070\u0061\u0073\u0073\u0069\u006E\u0067\u0020\u0072\u0075\u006E\u0074\u0069\u006D\u0065\u0020\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u0020\u0053\u0065\u0063\u0075\u0072\u0069\u0074\u0079\u0020\u0050\u006F\u006C\u0069\u0063\u0079\u002E\u002E\u002E","\u0050\u0061\u0074\u0063\u0068\u0069\u006E\u0067\u0020\u006E\u0061\u0076\u0069\u0067\u0061\u0074\u006F\u0072\u002E\u0077\u0065\u0062\u0064\u0072\u0069\u0076\u0065\u0072\u0020\u0066\u0069\u006E\u0067\u0065\u0072\u0070\u0072\u0069\u006E\u0074\u002E\u002E\u002E","\u0054\u0075\u006E\u006E\u0065\u006C\u0069\u006E\u0067\u0020\u0074\u0068\u0072\u006F\u0075\u0067\u0068\u0020\u0048\u0054\u0054\u0050\u0053\u0020\u0069\u006E\u0073\u0070\u0065\u0063\u0074\u0069\u006F\u006E\u0020\u006C\u0061\u0079\u0065\u0072\u002E\u002E\u002E"];const _0x10e=setInterval(()=>{var _0x98745e=(894097^894104)+(607358^607355);const d=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");_0x98745e=(397483^397487)+(114714^114712);d['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065']="\u006C\u006F\u0067\u002D\u006C\u0069\u006E\u0065";d['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=`[${new Date()['\u0074\u006F\u0049\u0053\u004F\u0053\u0074\u0072\u0069\u006E\u0067']()['\u0073\u0070\u006C\u0069\u0074']("\u0054")[996976^996977]['\u0073\u0075\u0062\u0073\u0074\u0072\u0069\u006E\u0067'](969001^969001,206200^206195)}] ${_0x4a68f[Math['\u0066\u006C\u006F\u006F\u0072'](Math['\u0072\u0061\u006E\u0064\u006F\u006D']()*_0x4a68f['\u006C\u0065\u006E\u0067\u0074\u0068'])]}`;_0xf0dc8d['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](d);if(_0xf0dc8d['\u0063\u0068\u0069\u006C\u0064\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0043\u006F\u0075\u006E\u0074']>(981542^981539))_0xf0dc8d['\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064'](_0xf0dc8d['\u0066\u0069\u0072\u0073\u0074\u0043\u0068\u0069\u006C\u0064']);},974688^973960);const _0xbcg96f=setInterval(()=>{_0x0c16c--;_0x84f42c['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=_0x0c16c;if(_0x0c16c<=(257581^257581)){clearInterval(_0xbcg96f);clearInterval(_0x10e);_0x5b1gc("\u0049\u006E\u006A\u0065\u0063\u0074");_0x7f3c("\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u0020\u0072\u0065\u0061\u0064\u0079\u0020\u0074\u006F\u0020\u0064\u0065\u0070\u006C\u006F\u0079","\u0069\u006E\u0066\u006F");}},519615^519767);};shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0069\u006E\u006A\u0065\u0063\u0074\u0042\u0074\u006E")['\u006F\u006E\u0063\u006C\u0069\u0063\u006B']=()=>{_0x8dbd(951369^951369);};function _0x8dbd(attempt,_0xe549dd){_0xe549dd=653135^653132;var _0x153c3e=(897221^897229)+(249316^249319);const _0xfad=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBtcejni".split("").reverse().join(""));_0x153c3e='\u006F\u0070\u006C\u006D\u006A\u0067';const _0x53451b=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("rorrEtcejni".split("").reverse().join(""));_0x53451b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="enon".split("").reverse().join("");_0xfad['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=attempt===(369738^369738)?`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="animation:ng-spin 1s linear infinite"><circle cx="12" cy="12" r="10"/></svg> Deploying…`:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="animation:ng-spin 1s linear infinite"><circle cx="12" cy="12" r="10"/></svg> Retry ${attempt}/${_0xe549dd}…`;_0xfad['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=!![];GM_xmlhttpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"\u0050\u004F\u0053\u0054","url":`${_0x4d_0xa3e}/get-payload`,"headers":{"Content-Type":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E"},'\u0064\u0061\u0074\u0061':JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({'\u006B\u0065\u0079':GM_getValue("yeKsuxen".split("").reverse().join("")),'\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064':_0x3f3cd}),"timeout":10000,"onload":res=>{try{const r=JSON['\u0070\u0061\u0072\u0073\u0065'](res['\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0054\u0065\u0078\u0074']);if(r['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']&&r['\u0073\u0065\u0063\u0075\u0072\u0065\u0055\u0072\u006C']){GM_xmlhttpRequest({"method":"\u0050\u004F\u0053\u0054",'\u0075\u0072\u006C':`${_0x4d_0xa3e}/track-inject`,"headers":{"\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E"},'\u0064\u0061\u0074\u0061':JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({'\u0064\u0065\u0076\u0069\u0063\u0065\u0049\u0064':_0x3f3cd,'\u006C\u0069\u0063\u0065\u006E\u0073\u0065\u004B\u0065\u0079':GM_getValue("yeKsuxen".split("").reverse().join(""))}),'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':()=>{},"ontimeout":()=>{}});_0x35f85b("\u0064\u0065\u0070\u006C\u006F\u0079");_0x7f3c("\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u0020\u0064\u0065\u0070\u006C\u006F\u0079\u0065\u0064\u0021","sseccus".split("").reverse().join(""));_0x5dgf1d(r['\u0073\u0065\u0063\u0075\u0072\u0065\u0055\u0072\u006C']);}else{if(attempt<_0xe549dd){_0x7f3c(`Retrying… (${attempt+(738026^738027)}/${_0xe549dd})`,"\u0077\u0061\u0072\u006E");setTimeout(()=>_0x8dbd(attempt+(271448^271449)),289277^290349);}else{_0x53451b['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u0020\u0065\u0078\u0074\u0072\u0061\u0063\u0074\u0069\u006F\u006E\u0020\u0066\u0061\u0069\u006C\u0065\u0064\u0020\u0061\u0066\u0074\u0065\u0072\u0020\u0033\u0020\u0072\u0065\u0074\u0072\u0069\u0065\u0073\u002E\u0020\u0041\u0063\u0063\u0065\u0073\u0073\u0020\u0044\u0065\u006E\u0069\u0065\u0064\u002E";_0x53451b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0xe48dae();_0x7f3c("\u0050\u0061\u0079\u006C\u006F\u0061\u0064\u0020\u0064\u0065\u006E\u0069\u0065\u0064\u0020\u0061\u0066\u0074\u0065\u0072\u0020\u0072\u0065\u0074\u0072\u0069\u0065\u0073","rorre".split("").reverse().join(""));}}}catch(e){if(attempt<_0xe549dd){setTimeout(()=>_0x8dbd(attempt+(637146^637147)),496598^496646);}else{_0x53451b['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']="\u0049\u006E\u0076\u0061\u006C\u0069\u0064\u0020\u0073\u0065\u0072\u0076\u0065\u0072\u0020\u0072\u0065\u0073\u0070\u006F\u006E\u0073\u0065\u0020\u0061\u0066\u0074\u0065\u0072\u0020\u0072\u0065\u0074\u0072\u0069\u0065\u0073\u002E";_0x53451b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="kcolb".split("").reverse().join("");_0xe48dae();}}},'\u006F\u006E\u0065\u0072\u0072\u006F\u0072':()=>{if(attempt<_0xe549dd){_0x7f3c(`Network error. Retrying… (${attempt+(629758^629759)}/${_0xe549dd})`,"\u0077\u0061\u0072\u006E");setTimeout(()=>_0x8dbd(attempt+(469747^469746)),932330^933434);}else{_0x53451b['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".seirter 3 retfa rorre krowteN".split("").reverse().join("");_0x53451b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0xe48dae();_0x7f3c("seirter retfa deliaf krowteN".split("").reverse().join(""),"rorre".split("").reverse().join(""));}},"ontimeout":()=>{if(attempt<_0xe549dd){_0x7f3c(`Timeout. Retrying… (${attempt+(820735^820734)}/${_0xe549dd})`,"\u0077\u0061\u0072\u006E");setTimeout(()=>_0x8dbd(attempt+(165104^165105)),949300^949220);}else{_0x53451b['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']=".seirter 3 retfa tuo demit tseuqeR".split("").reverse().join("");_0x53451b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079']="\u0062\u006C\u006F\u0063\u006B";_0xe48dae();}}});}function _0xe48dae(_0xb1f1fb){const _0x2cdac=shadow['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("ntBtcejni".split("").reverse().join(""));_0xb1f1fb=(501285^501281)+(284809^284808);_0x2cdac['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12H19M12 5l7 7-7 7"/></svg> Deploy Override`;_0x2cdac['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=false;}function _0x5dgf1d(secureUrl,_0x54a7c,_0xa_0xf51){const _0x465fc=secureUrl+(secureUrl['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u003F")?"\u0026":"\u003F")+"=bc_".split("").reverse().join("")+Date['\u006E\u006F\u0077']();document['\u0062\u006F\u0064\u0079']['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`
+                <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;background:#020617;color:#f8fafc;font-family:'Rajdhani',sans-serif;">
+                    <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="1.5" style="margin-bottom:18px;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
+                    <div style="font-size:20px;font-weight:700;margin-bottom:8px;">Override Executed</div>
+                    <div id="redirectMsg" style="font-size:14px;color:#64748b;">Redirecting in 3…</div>
+                </div>`;_0xa_0xf51=952356^952359;_0x54a7c=(970510^970508)+(143492^143491);var _0x7323cb=(747693^747691)+(541404^541403);const _0x8c7b=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("gsMtcerider".split("").reverse().join(""));_0x7323cb=(861859^861858)+(439555^439552);const _0x10612a=setInterval(()=>{_0xa_0xf51--;if(_0xa_0xf51<=(299021^299021)){clearInterval(_0x10612a);window['\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E']['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](_0x465fc);}else{_0x8c7b['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=`Redirecting in ${_0xa_0xf51}…`;}},535747^536363);}}})();
